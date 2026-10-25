@@ -1,0 +1,27 @@
+{
+  "id": "subboss_6",
+  "bones": 19,
+  "weighted_vertices": 40374,
+  "regions": {
+    "hand_l": 4395,
+    "lowerarm_l": 2741,
+    "upperarm_l": 5060,
+    "head": 1762,
+    "cape": 5616,
+    "hand_r": 3487,
+    "foot_l": 407,
+    "calf_l": 1227,
+    "thigh_l": 2012,
+    "neck": 1370,
+    "spine_01": 3129,
+    "pelvis": 1656,
+    "spine_03": 1818,
+    "thigh_r": 1976,
+    "foot_r": 1177,
+    "calf_r": 1633,
+    "upperarm_r": 259,
+    "lowerarm_r": 649
+  },
+  "previous_runtime": "backups\\pre-authored-animation\\subboss_6.glb",
+  "source_geometry_preserved": true
+}

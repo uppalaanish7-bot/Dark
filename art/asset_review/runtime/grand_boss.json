@@ -1,0 +1,18 @@
+{
+  "id": "grand_boss",
+  "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Boss Sub Guard\\gurad\\ember_winged_fallen_angel_warrior.glb",
+  "derived": "assets\\provided\\grand_boss.glb",
+  "source_triangles": 1881092,
+  "runtime_triangles": 64998,
+  "rigged": true,
+  "texture_limit": 2048,
+  "seconds": 60.87,
+  "attribution": {
+    "author": "Pigcraft (https://sketchfab.com/s8819296)",
+    "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "source": "https://sketchfab.com/3d-models/ember-winged-fallen-angel-warrior-a47e02e8f82640deb483c97cca81bb67",
+    "title": "Ember Winged Fallen Angel Warrior"
+  },
+  "rig_bones": 3,
+  "modifications": "Normalized origin and height; sculpt chunks welded before decimation; textures limited to 2048; three-bone outer feather hinge rig with smooth weights added in Blender. Body, armor and supplied swords preserved. Keyed lift/dive choreography and runtime feather articulation."
+}

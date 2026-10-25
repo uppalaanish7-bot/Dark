@@ -1,0 +1,16 @@
+{
+  "id": "soldier_8",
+  "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (8)\\SLODIER\\desert_nomad_assassin_-_dark_fantasy.glb",
+  "derived": "assets\\provided\\soldier_8.glb",
+  "source_triangles": 1955547,
+  "runtime_triangles": 27999,
+  "rigged": false,
+  "texture_limit": 1024,
+  "seconds": 54.8,
+  "attribution": {
+    "author": "Pigcraft (https://sketchfab.com/s8819296)",
+    "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "source": "https://sketchfab.com/3d-models/desert-nomad-assassin-dark-fantasy-f9a2715ce7d247f090475013e8836132",
+    "title": "Desert Nomad Assassin - Dark Fantasy"
+  }
+}

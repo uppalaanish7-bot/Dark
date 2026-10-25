@@ -1,0 +1,27 @@
+{
+  "id": "subboss_8",
+  "bones": 19,
+  "weighted_vertices": 43469,
+  "regions": {
+    "upperarm_r": 581,
+    "head": 3051,
+    "neck": 1519,
+    "cape": 25296,
+    "spine_03": 793,
+    "spine_01": 541,
+    "pelvis": 407,
+    "lowerarm_r": 1067,
+    "thigh_r": 2056,
+    "hand_r": 3755,
+    "upperarm_l": 30,
+    "thigh_l": 733,
+    "lowerarm_l": 12,
+    "calf_r": 1699,
+    "calf_l": 1004,
+    "foot_l": 425,
+    "hand_l": 16,
+    "foot_r": 484
+  },
+  "previous_runtime": "backups\\pre-authored-animation\\subboss_8.glb",
+  "source_geometry_preserved": true
+}

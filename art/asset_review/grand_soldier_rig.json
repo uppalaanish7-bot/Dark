@@ -1,0 +1,20 @@
+{
+  "id": "grand_soldier",
+  "bones": 19,
+  "weighted_vertices": 27964,
+  "regions": {
+    "upperarm_l": 2381,
+    "spine_01": 1649,
+    "hand_r": 4250,
+    "pelvis": 7202,
+    "lowerarm_l": 608,
+    "cape": 6776,
+    "hand_l": 2275,
+    "neck": 750,
+    "head": 763,
+    "spine_03": 1302,
+    "lowerarm_r": 8
+  },
+  "previous_runtime": "backups\\pre-authored-animation\\grand_soldier.glb",
+  "source_geometry_preserved": true
+}

@@ -1,0 +1,16 @@
+{
+  "id": "soldier_4",
+  "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (4)\\SLODIER\\ash-grey_cultist_-_ritual_mask__chains.glb",
+  "derived": "assets\\provided\\soldier_4.glb",
+  "source_triangles": 1975300,
+  "runtime_triangles": 28000,
+  "rigged": false,
+  "texture_limit": 1024,
+  "seconds": 53.54,
+  "attribution": {
+    "author": "Pigcraft (https://sketchfab.com/s8819296)",
+    "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "source": "https://sketchfab.com/3d-models/ash-grey-cultist-ritual-mask-chains-ead4dc1528374115a9d392ee7c1ef63d",
+    "title": "Ash-Grey Cultist - Ritual Mask & Chains"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "subboss_6",
+  "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (6)\\BOSS\\executioner_warrior_-_hooded_axe__armor.glb",
+  "derived": "assets\\provided\\subboss_6.glb",
+  "source_triangles": 1895294,
+  "runtime_triangles": 64998,
+  "rigged": false,
+  "texture_limit": 2048,
+  "seconds": 56.2,
+  "attribution": {
+    "author": "Pigcraft (https://sketchfab.com/s8819296)",
+    "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "source": "https://sketchfab.com/3d-models/executioner-warrior-hooded-axe-armor-9924a0f56d164b29abf0c3bf0b2b2333",
+    "title": "Executioner Warrior - Hooded Axe & Armor"
+  }
+}

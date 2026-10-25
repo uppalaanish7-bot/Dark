@@ -1,0 +1,5 @@
+fps_cap=60
+render_scale=0.85
+floor_01 soldiers_start=100 soldiers_end=100 samples=88 average_fps=61.11 minimum_instant_fps=31.73 max_frame_ms=31.52 average_draw_calls=317.9
+floor_11_final_boss soldiers_start=100 soldiers_end=100 samples=90 average_fps=60.02 minimum_instant_fps=56.84 max_frame_ms=17.59 average_draw_calls=318.0
+floor_11_spirit_bomb soldiers_start=100 soldiers_end=100 samples=61 average_fps=60.55 minimum_instant_fps=39.67 max_frame_ms=25.21 average_draw_calls=235.0

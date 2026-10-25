@@ -1,0 +1,16 @@
+{
+  "id": "subboss_9",
+  "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (9)\\BOSS\\corrupted_archangel_six_wings_boss.glb",
+  "derived": "assets\\provided\\subboss_9.glb",
+  "source_triangles": 1963878,
+  "runtime_triangles": 64998,
+  "rigged": false,
+  "texture_limit": 2048,
+  "seconds": 54.39,
+  "attribution": {
+    "author": "Pigcraft (https://sketchfab.com/s8819296)",
+    "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "source": "https://sketchfab.com/3d-models/corrupted-archangel-six-wings-boss-139d6f0185684ab9ae12fed7530c0696",
+    "title": "Corrupted Archangel Six Wings Boss"
+  }
+}

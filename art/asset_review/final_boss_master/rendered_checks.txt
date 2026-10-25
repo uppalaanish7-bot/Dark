@@ -1,0 +1,2 @@
+failures=0
+checks=rendered scene, seven flying soldiers, movement, jump, dodge, sword, ranged magic, aerial Q, phases 2 and 3, final boss signatures

@@ -1,0 +1,16 @@
+{
+  "id": "soldier_7",
+  "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (7)\\SLODIER\\plague_assassin_-_dark_fantasy_character.glb",
+  "derived": "assets\\provided\\soldier_7.glb",
+  "source_triangles": 1908063,
+  "runtime_triangles": 27999,
+  "rigged": false,
+  "texture_limit": 1024,
+  "seconds": 53.97,
+  "attribution": {
+    "author": "Pigcraft (https://sketchfab.com/s8819296)",
+    "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "source": "https://sketchfab.com/3d-models/plague-assassin-dark-fantasy-character-e8b104a0f1504f9d8fb5d8374e964400",
+    "title": "Plague Assassin - Dark Fantasy Character"
+  }
+}

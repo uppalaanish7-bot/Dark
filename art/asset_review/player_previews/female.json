@@ -1,0 +1,12 @@
+{
+  "id": "female",
+  "source": "C:\\Users\\uppal\\Downloads\\girl_knight.glb",
+  "derived": "assets/provided/female.glb",
+  "runtime_triangles": 3596,
+  "rigged": true,
+  "native_dimensions": [
+    107.27619934082031,
+    44.48540496826172,
+    175.44517517089844
+  ]
+}

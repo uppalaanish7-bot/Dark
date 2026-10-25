@@ -1,0 +1,16 @@
+{
+  "id": "subboss_4",
+  "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (4)\\BOSS\\dark_necromancer_-_corrupted_staff__skulls.glb",
+  "derived": "assets\\provided\\subboss_4.glb",
+  "source_triangles": 1893733,
+  "runtime_triangles": 64999,
+  "rigged": false,
+  "texture_limit": 2048,
+  "seconds": 53.84,
+  "attribution": {
+    "author": "Pigcraft (https://sketchfab.com/s8819296)",
+    "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "source": "https://sketchfab.com/3d-models/dark-necromancer-corrupted-staff-skulls-10c3bef4113b4e128ad41c9fdcab74e3",
+    "title": "Dark Necromancer - Corrupted Staff & Skulls"
+  }
+}

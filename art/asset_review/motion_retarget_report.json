@@ -1,0 +1,17 @@
+{
+	"assets": [
+		{
+			"clips": 37,
+			"id": "female",
+			"mapped_bones": 17,
+			"save_error": 0
+		},
+		{
+			"clips": 37,
+			"id": "omega",
+			"mapped_bones": 56,
+			"save_error": 0
+		}
+	],
+	"source": "Quaternius Universal Animation Library · CC0"
+}

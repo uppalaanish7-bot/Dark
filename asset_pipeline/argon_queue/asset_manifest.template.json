@@ -1,0 +1,19 @@
+{
+  "asset_id": "",
+  "source_original_path": "",
+  "source_filename": "",
+  "source_sha256": "",
+  "associated_textures": [],
+  "texture_association_status": "pending_verification",
+  "date_sent": "",
+  "argon_job_id": "",
+  "argon_version": "",
+  "intended_animation_task": "",
+  "returned_filename": "",
+  "returned_source_asset_id": "",
+  "rig_or_skeleton_changed": null,
+  "animation_clip_names": [],
+  "review_status": "pending",
+  "godot_test_status": "not_tested",
+  "notes": ""
+}

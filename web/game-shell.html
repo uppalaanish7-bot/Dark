@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#0d2028">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="icons/relic_180.png">
+  <title>Play RELIC · Arena Protocol</title>
+  <style>
+    *{box-sizing:border-box}html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#0d2028;color:#eef1e5;font-family:system-ui,sans-serif;touch-action:none}#canvas{display:block;width:100%;height:100%;outline:none}#loading,#rotate{position:fixed;inset:0;display:grid;place-content:center;gap:20px;text-align:center;padding:28px;background:radial-gradient(circle at center,#234b4b,#0d2028 65%);z-index:3}h1{font-size:clamp(42px,9vw,80px);letter-spacing:.3em;margin:0}p{max-width:500px;line-height:1.6;margin:0 auto;color:#b4c7c4}button,a{padding:16px 28px;border:1px solid #8bedd6;border-radius:3px;background:#8bedd6;color:#0d2028;font:700 17px system-ui;cursor:pointer;text-decoration:none}a{background:transparent;color:#8bedd6}progress{width:min(80vw,430px);accent-color:#8bedd6;margin:auto}#error{color:#ffbe9e;white-space:pre-wrap}#rotate{display:none}#retry{display:none}[hidden]{display:none!important}@media(orientation:portrait) and (pointer:coarse){#rotate{display:grid;z-index:4}}
+  </style>
+  $GODOT_HEAD_INCLUDE
+</head>
+<body>
+  <canvas id="canvas" aria-label="RELIC arena game" tabindex="0">This game requires a browser with WebGL 2.</canvas>
+  <section id="loading" aria-live="polite">
+    <h1>RELIC</h1><p>ARENA / PROTOCOL</p>
+    <p id="message">Five waves. Four operators. One relic.<br>Turn your phone sideways for touch controls.</p>
+    <label id="mouse-option"><input id="capture-mouse" type="checkbox" checked> Capture mouse for free look</label>
+    <p id="mouse-help">If your browser cannot capture the mouse, uncheck this and hold right click to look.</p>
+    <button id="start">ENTER THE ARENA</button>
+    <progress id="progress" hidden></progress><p id="error" role="alert"></p>
+    <button id="retry" onclick="location.reload()">TRY AGAIN</button><a href="./">Back to home</a>
+  </section>
+  <section id="rotate"><h1>↻</h1><h2>Turn your phone sideways</h2><p>RELIC plays in landscape. Rotate your phone to enter the arena.</p><a href="./">Back to home</a></section>
+  <script src="$GODOT_URL"></script>
+  <script>
+    // Embedded browsers may reject pointer lock. The native controller also
+    // supports right-button dragging, and keyboard/fire input stays available.
+    document.addEventListener('contextmenu',event=>event.preventDefault());
+    const config = $GODOT_CONFIG;
+    const engine = new Engine(config);
+    const loading = document.querySelector('#loading');
+    const progress = document.querySelector('#progress');
+    const start = document.querySelector('#start');
+    start.addEventListener('click', async () => {
+      window.relicMouseCapture = document.querySelector('#capture-mouse').checked;
+      document.querySelector('#mouse-option').hidden = true;
+      document.querySelector('#mouse-help').hidden = true;
+      start.hidden = true;
+      progress.hidden = false;
+      document.querySelector('#message').textContent = 'Loading the arena… The first visit downloads the game.';
+      try {
+        const missing = Engine.getMissingFeatures({threads: $GODOT_THREADS_ENABLED});
+        if(missing.length) throw new Error('This browser needs: '+missing.join(', ')+'. Try the latest Chrome, Edge, Firefox or Safari.');
+        if(navigator.maxTouchPoints && document.documentElement.requestFullscreen) {
+          document.documentElement.requestFullscreen().then(() => screen.orientation?.lock?.('landscape')).catch(()=>{});
+        }
+        await engine.startGame({canvas:document.querySelector('#canvas'),onProgress:(current,total)=>{
+          if(total>0){progress.max=total;progress.value=current;}else{progress.removeAttribute('value');}
+        },onExit:()=>{ loading.hidden=false; document.querySelector('#message').textContent='Session ended. Reload to play again.'; document.querySelector('#retry').style.display='block'; }});
+        loading.hidden = true;
+        document.querySelector('#canvas').focus();
+      } catch(error) {
+        progress.hidden = true;
+        document.querySelector('#error').textContent = error.message || String(error);
+        document.querySelector('#retry').style.display='block';
+      }
+    });
+    addEventListener('resize',()=>{if(navigator.maxTouchPoints && innerHeight>innerWidth) window.relicPause?.();});
+    if(navigator.maxTouchPoints){document.querySelector('#mouse-option').hidden=true;document.querySelector('#mouse-help').hidden=true;}
+    if('serviceWorker' in navigator && isSecureContext) navigator.serviceWorker.register('./sw.js').catch(()=>{});
+  </script>
+</body></html>

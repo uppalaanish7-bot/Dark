@@ -1,0 +1,17 @@
+{
+	"actors": [
+		{
+			"id": "female",
+			"max_moving_attack_gait_step_cycles": 0.0197863088344408,
+			"max_planted_foot_drift_m": 0.0094103179872036,
+			"max_sole_rotation_error_rad": 0.0
+		},
+		{
+			"id": "omega",
+			"max_moving_attack_gait_step_cycles": 0.0197863088344408,
+			"max_planted_foot_drift_m": 0.00462417909875512,
+			"max_sole_rotation_error_rad": 0.000690533954184502
+		}
+	],
+	"failures": []
+}

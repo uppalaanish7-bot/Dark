@@ -1,0 +1,16 @@
+{
+  "id": "subboss_8",
+  "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (8)\\BOSS\\dark_spiked_gothic_knight_with_broken_sword.glb",
+  "derived": "assets\\provided\\subboss_8.glb",
+  "source_triangles": 1000071,
+  "runtime_triangles": 64994,
+  "rigged": false,
+  "texture_limit": 2048,
+  "seconds": 25.52,
+  "attribution": {
+    "author": "Pigcraft (https://sketchfab.com/s8819296)",
+    "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "source": "https://sketchfab.com/3d-models/dark-spiked-gothic-knight-with-broken-sword-f3a1b95ea444409ebd0de017bceeb06b",
+    "title": "Dark Spiked Gothic Knight with Broken Sword"
+  }
+}

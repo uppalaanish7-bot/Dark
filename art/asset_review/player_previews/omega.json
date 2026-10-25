@@ -1,0 +1,12 @@
+{
+  "id": "omega",
+  "source": "C:\\Users\\uppal\\Downloads\\omega_knight.glb",
+  "derived": "assets/provided/omega.glb",
+  "runtime_triangles": 31130,
+  "rigged": true,
+  "native_dimensions": [
+    1.2293598651885986,
+    0.41303685307502747,
+    1.827776312828064
+  ]
+}

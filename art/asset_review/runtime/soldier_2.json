@@ -1,0 +1,16 @@
+{
+  "id": "soldier_2",
+  "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (2)\\SLODIER\\corrupted_fallen_priest_-_dark_fantasy.glb",
+  "derived": "assets\\provided\\soldier_2.glb",
+  "source_triangles": 1942176,
+  "runtime_triangles": 28000,
+  "rigged": false,
+  "texture_limit": 1024,
+  "seconds": 61.37,
+  "attribution": {
+    "author": "Pigcraft (https://sketchfab.com/s8819296)",
+    "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "source": "https://sketchfab.com/3d-models/corrupted-fallen-priest-dark-fantasy-1ab734d8c4464ae49d5b5091f3ea2afc",
+    "title": "Corrupted Fallen Priest - Dark Fantasy"
+  }
+}

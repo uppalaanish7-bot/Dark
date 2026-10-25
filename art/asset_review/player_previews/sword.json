@@ -1,0 +1,12 @@
+{
+  "id": "sword",
+  "source": "C:\\Users\\uppal\\Downloads\\free__steampunk_da_vincis_sword_game-ready.glb",
+  "derived": "assets/provided/sword.glb",
+  "runtime_triangles": 35769,
+  "rigged": false,
+  "native_dimensions": [
+    2.249603271484375,
+    1.7108569145202637,
+    14.407630920410156
+  ]
+}

@@ -1,0 +1,166 @@
+{
+	"actors": [
+		{
+			"authored_skeletal_motion": true,
+			"bones": 20,
+			"cue": "Sword_Attack03",
+			"id": "female",
+			"recovered": true
+		},
+		{
+			"authored_skeletal_motion": true,
+			"bones": 167,
+			"cue": "Sword_Attack03",
+			"id": "omega",
+			"recovered": true
+		},
+		{
+			"authored_skeletal_motion": true,
+			"bones": 24,
+			"cue": "Stone_Slam",
+			"id": "subboss_1",
+			"recovered": true
+		},
+		{
+			"authored_skeletal_motion": false,
+			"bones": 17,
+			"cue": "Water_Sweep",
+			"id": "subboss_2",
+			"recovered": true
+		},
+		{
+			"authored_skeletal_motion": false,
+			"bones": 17,
+			"cue": "Fire_Combo",
+			"id": "subboss_3",
+			"recovered": true
+		},
+		{
+			"authored_skeletal_motion": false,
+			"bones": 17,
+			"cue": "Soul_Channel",
+			"id": "subboss_4",
+			"recovered": true
+		},
+		{
+			"authored_skeletal_motion": false,
+			"bones": 17,
+			"cue": "Lightning_Lunge",
+			"id": "subboss_5",
+			"recovered": true
+		},
+		{
+			"authored_skeletal_motion": false,
+			"bones": 17,
+			"cue": "Wind_Cyclone",
+			"id": "subboss_6",
+			"recovered": true
+		},
+		{
+			"authored_skeletal_motion": true,
+			"bones": 142,
+			"cue": "Poison_Cast",
+			"id": "subboss_7",
+			"recovered": true
+		},
+		{
+			"authored_skeletal_motion": false,
+			"bones": 17,
+			"cue": "Ice_Cleave",
+			"id": "subboss_8",
+			"recovered": true
+		},
+		{
+			"authored_skeletal_motion": false,
+			"bones": 17,
+			"cue": "Gravity_Pulse",
+			"id": "subboss_9",
+			"recovered": true
+		},
+		{
+			"authored_skeletal_motion": true,
+			"bones": 89,
+			"cue": "Stone_Slam",
+			"id": "soldier_1",
+			"recovered": true
+		},
+		{
+			"authored_skeletal_motion": false,
+			"bones": 17,
+			"cue": "Water_Sweep",
+			"id": "soldier_2",
+			"recovered": true
+		},
+		{
+			"authored_skeletal_motion": false,
+			"bones": 17,
+			"cue": "Fire_Combo",
+			"id": "soldier_3",
+			"recovered": true
+		},
+		{
+			"authored_skeletal_motion": false,
+			"bones": 17,
+			"cue": "Soul_Channel",
+			"id": "soldier_4",
+			"recovered": true
+		},
+		{
+			"authored_skeletal_motion": false,
+			"bones": 17,
+			"cue": "Lightning_Lunge",
+			"id": "soldier_5",
+			"recovered": true
+		},
+		{
+			"authored_skeletal_motion": false,
+			"bones": 17,
+			"cue": "Wind_Cyclone",
+			"id": "soldier_6",
+			"recovered": true
+		},
+		{
+			"authored_skeletal_motion": false,
+			"bones": 17,
+			"cue": "Poison_Cast",
+			"id": "soldier_7",
+			"recovered": true
+		},
+		{
+			"authored_skeletal_motion": false,
+			"bones": 17,
+			"cue": "Ice_Cleave",
+			"id": "soldier_8",
+			"recovered": true
+		},
+		{
+			"authored_skeletal_motion": false,
+			"bones": 17,
+			"cue": "Gravity_Pulse",
+			"id": "soldier_9",
+			"recovered": true
+		},
+		{
+			"authored_skeletal_motion": false,
+			"bones": 17,
+			"cue": "Lava_Crash",
+			"id": "grand_boss",
+			"recovered": true
+		},
+		{
+			"authored_skeletal_motion": false,
+			"bones": 17,
+			"cue": "Lava_Crash",
+			"id": "grand_soldier",
+			"recovered": true
+		},
+		{
+			"authored_skeletal_motion": false,
+			"bones": 17,
+			"cue": "Void_Reap",
+			"id": "main_boss",
+			"recovered": true
+		}
+	],
+	"failures": []
+}

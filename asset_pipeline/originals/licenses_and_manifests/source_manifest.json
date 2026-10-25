@@ -1,0 +1,737 @@
+{
+  "assets": [
+    {
+      "id": "subboss_1",
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (1)\\BOSS\\stelae_knight.glb",
+      "derived": "assets\\provided\\subboss_1.glb",
+      "source_triangles": 20060,
+      "runtime_triangles": 20060,
+      "rigged": true,
+      "texture_limit": 2048,
+      "seconds": 2.95,
+      "attribution": {
+        "author": "Muru (https://sketchfab.com/muru)",
+        "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+        "source": "https://sketchfab.com/3d-models/stelae-knight-0a795ae613f2496e955974ca37bf1e94",
+        "title": "Stelae knight"
+      },
+      "runtime_sha256": "97ff54949e33133d77bcce3b8fc5c537996f17078896254cb34a7c416a683215",
+      "modifications": "Normalized origin and height; textures resized to runtime budget; dense sculpt meshes decimated while retaining UVs and materials. Existing rigs preserved. Runtime root motion and combat poses added.",
+      "source_sha256": "6ca6c6d2eb619fe36fdc718c191ecbef10b42a9a72c3269bac6af51515e8bc61",
+      "source_container_valid": true
+    },
+    {
+      "id": "soldier_1",
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (1)\\SLODIER\\skeleton_lord.glb",
+      "derived": "assets\\provided\\soldier_1.glb",
+      "source_triangles": 8665,
+      "runtime_triangles": 8665,
+      "rigged": true,
+      "texture_limit": 1024,
+      "seconds": 3.33,
+      "attribution": {
+        "author": "DJMaesen (https://sketchfab.com/bumstrum)",
+        "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+        "source": "https://sketchfab.com/3d-models/skeleton-lord-a3f7b44275cf4c489ad62c535268ac16",
+        "title": "Skeleton Lord"
+      },
+      "runtime_sha256": "631c158734e69e42103619bdf1179664a5120b0e31d3e7858bc7dd29c4084b98",
+      "modifications": "Normalized origin and height; textures resized to runtime budget; dense sculpt meshes decimated while retaining UVs and materials. Existing rigs preserved. Runtime root motion and combat poses added.",
+      "source_sha256": "587eed18d70d1d76116d15c7db85cdef038ff491e4a7d7e54b9c64e01adb2feb",
+      "source_container_valid": true
+    },
+    {
+      "id": "subboss_7",
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (7)\\BOSS\\npc_knight_-_doom__the_dark_ages_-_rigged.glb",
+      "derived": "assets\\provided\\subboss_7.glb",
+      "source_triangles": 127594,
+      "runtime_triangles": 127594,
+      "rigged": true,
+      "texture_limit": 2048,
+      "seconds": 7.02,
+      "attribution": {
+        "author": "wrimpr (https://sketchfab.com/wrimpr)",
+        "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+        "source": "https://sketchfab.com/3d-models/npc-knight-doom-the-dark-ages-rigged-9ed6c61852a8417b8490105d0a50ba58",
+        "title": "NPC Knight - DOOM : The Dark Ages - Rigged"
+      },
+      "runtime_sha256": "1d66fa059070358ba9e4e5804f21cc644c8e9738f61e93d1cb154a0697450551",
+      "modifications": "Normalized origin and height; textures resized to runtime budget; dense sculpt meshes decimated while retaining UVs and materials. Existing rigs preserved. Runtime root motion and combat poses added.",
+      "source_sha256": "71288cd7c28204fc8fac8e6b5820f799a698396b6e7a465f2ab562e97c78b034",
+      "source_container_valid": true
+    },
+    {
+      "id": "main_boss",
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Boss\\grim_reaper_dark_knight_warrior.glb",
+      "derived": "assets\\provided\\main_boss.glb",
+      "source_triangles": 979228,
+      "runtime_triangles": 64999,
+      "rigged": false,
+      "texture_limit": 2048,
+      "seconds": 19.87,
+      "attribution": {
+        "author": "Pigcraft (https://sketchfab.com/s8819296)",
+        "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+        "source": "https://sketchfab.com/3d-models/grim-reaper-dark-knight-warrior-6a31ad680aa2441d9e63964fd0a889f7",
+        "title": "Grim Reaper Dark Knight Warrior"
+      },
+      "runtime_sha256": "0d7ad2acc21b3e6ee4130b48fd64bf5d68b5101c0f86fc73f8ac7b0cc1d85894",
+      "modifications": "Normalized origin and height; textures resized to runtime budget; sculpt index chunks welded before decimation to preserve continuous surfaces and UV loops. Existing rigs preserved. Runtime root motion, spectral hover and combat poses added. Interior material adaptation reduces metallic response and disables incompatible second-UV normals.",
+      "source_sha256": "9d2be4ea5f0ae3ef9b2053b1abfa666e007a463652c69a6bd77233476c7c32b1",
+      "source_container_valid": true
+    },
+    {
+      "id": "grand_soldier",
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Boss Sub Guard\\Guard solider\\obsidian_warden_shadow_hunter.glb",
+      "derived": "assets\\provided\\grand_soldier.glb",
+      "source_triangles": 953825,
+      "runtime_triangles": 27988,
+      "rigged": false,
+      "texture_limit": 1024,
+      "seconds": 16.84,
+      "attribution": {
+        "author": "iRahulRajput (https://sketchfab.com/rt699448)",
+        "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+        "source": "https://sketchfab.com/3d-models/obsidian-warden-shadow-hunter-536036870e7245db8d1956a4bb285122",
+        "title": "Obsidian Warden shadow hunter"
+      },
+      "runtime_sha256": "4ccba0721f6b60c6aeef77a5bb8cdc0fee76002526e52652096476c5efcaecfc",
+      "modifications": "Normalized origin and height; textures resized to runtime budget; sculpt index chunks welded before decimation to preserve continuous surfaces and UV loops. Existing rigs preserved. Runtime root motion, spectral hover and combat poses added. Interior material adaptation reduces metallic response and disables incompatible second-UV normals.",
+      "source_sha256": "543d9b367ff709b10ec66c5464d85e8c6ccf5977f0b531523855ca48475b98d6",
+      "source_container_valid": true
+    },
+    {
+      "id": "grand_boss",
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Boss Sub Guard\\gurad\\ember_winged_fallen_angel_warrior.glb",
+      "derived": "assets\\provided\\grand_boss.glb",
+      "source_triangles": 1881092,
+      "runtime_triangles": 64998,
+      "rigged": true,
+      "texture_limit": 2048,
+      "seconds": 60.87,
+      "attribution": {
+        "author": "Pigcraft (https://sketchfab.com/s8819296)",
+        "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+        "source": "https://sketchfab.com/3d-models/ember-winged-fallen-angel-warrior-a47e02e8f82640deb483c97cca81bb67",
+        "title": "Ember Winged Fallen Angel Warrior"
+      },
+      "rig_bones": 3,
+      "modifications": "Normalized origin and height; sculpt chunks welded before decimation; textures limited to 2048; three-bone outer feather hinge rig with smooth weights added in Blender. Body, armor and supplied swords preserved. Keyed lift/dive choreography and runtime feather articulation.",
+      "runtime_sha256": "a75a4ebe968b14845284aec59f12967938a1ba4f63a3bdf82f046a54e4415a8e",
+      "source_sha256": "a204688bef928e42189b0150a41f4952bdf7d792029d95a118956eeed11621fd",
+      "source_container_valid": true
+    },
+    {
+      "id": "soldier_2",
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (2)\\SLODIER\\corrupted_fallen_priest_-_dark_fantasy.glb",
+      "derived": "assets\\provided\\soldier_2.glb",
+      "source_triangles": 1942176,
+      "runtime_triangles": 28000,
+      "rigged": false,
+      "texture_limit": 1024,
+      "seconds": 61.37,
+      "attribution": {
+        "author": "Pigcraft (https://sketchfab.com/s8819296)",
+        "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+        "source": "https://sketchfab.com/3d-models/corrupted-fallen-priest-dark-fantasy-1ab734d8c4464ae49d5b5091f3ea2afc",
+        "title": "Corrupted Fallen Priest - Dark Fantasy"
+      },
+      "runtime_sha256": "d2e449e1c974ba57a1b485335cfa3dee3e84f24bda511f3b4081fc9793a4554f",
+      "source_sha256": "159fa2a9706b0fbdb76e4f49fe73e27f70edd39f6ca79821b0f81a98f3e97af8",
+      "source_container_valid": true,
+      "modifications": "Normalized origin and height; textures resized to runtime budget; sculpt index chunks welded before decimation to preserve continuous surfaces and UV loops. Existing rigs preserved. Runtime root motion, spectral hover and combat poses added. Interior material adaptation reduces metallic response and disables incompatible second-UV normals."
+    },
+    {
+      "id": "soldier_3",
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (3)\\SLODIER\\blood_priest_in_crimson_ritual_robes.glb",
+      "derived": "assets\\provided\\soldier_3.glb",
+      "source_triangles": 1889841,
+      "runtime_triangles": 27999,
+      "rigged": false,
+      "texture_limit": 1024,
+      "seconds": 52.97,
+      "attribution": {
+        "author": "Pigcraft (https://sketchfab.com/s8819296)",
+        "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+        "source": "https://sketchfab.com/3d-models/blood-priest-in-crimson-ritual-robes-8055a4c59bf7451c8b95db8baab58909",
+        "title": "Blood Priest in Crimson Ritual Robes"
+      },
+      "runtime_sha256": "b19939db97c46b6b6f4fb7b23075a530e296b3732d994ac0fd9240c781dfb6c5",
+      "source_sha256": "322ea30422da997983ad591a8d55394dbec2d93f7935a343c10243fc7d064cc8",
+      "source_container_valid": true,
+      "modifications": "Normalized origin and height; textures resized to runtime budget; sculpt index chunks welded before decimation to preserve continuous surfaces and UV loops. Existing rigs preserved. Runtime root motion, spectral hover and combat poses added. Interior material adaptation reduces metallic response and disables incompatible second-UV normals."
+    },
+    {
+      "id": "soldier_4",
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (4)\\SLODIER\\ash-grey_cultist_-_ritual_mask__chains.glb",
+      "derived": "assets\\provided\\soldier_4.glb",
+      "source_triangles": 1975300,
+      "runtime_triangles": 28000,
+      "rigged": false,
+      "texture_limit": 1024,
+      "seconds": 53.54,
+      "attribution": {
+        "author": "Pigcraft (https://sketchfab.com/s8819296)",
+        "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+        "source": "https://sketchfab.com/3d-models/ash-grey-cultist-ritual-mask-chains-ead4dc1528374115a9d392ee7c1ef63d",
+        "title": "Ash-Grey Cultist - Ritual Mask & Chains"
+      },
+      "runtime_sha256": "78c423082c6b49268353ceb549bcc47cf0ab071276191c849944d0383ef59ba6",
+      "source_sha256": "6d243f199dbc4647ecd6783a1d42bc97be097ba2e6c271594b08bb16f227c679",
+      "source_container_valid": true,
+      "modifications": "Normalized origin and height; textures resized to runtime budget; sculpt index chunks welded before decimation to preserve continuous surfaces and UV loops. Existing rigs preserved. Runtime root motion, spectral hover and combat poses added. Interior material adaptation reduces metallic response and disables incompatible second-UV normals."
+    },
+    {
+      "id": "soldier_5",
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (5)\\SLODIER\\corrupted_monk_-_ash-grey_ritual_robes.glb",
+      "derived": "assets\\provided\\soldier_5.glb",
+      "source_triangles": 1927502,
+      "runtime_triangles": 27999,
+      "rigged": false,
+      "texture_limit": 1024,
+      "seconds": 61.23,
+      "attribution": {
+        "author": "Pigcraft (https://sketchfab.com/s8819296)",
+        "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+        "source": "https://sketchfab.com/3d-models/corrupted-monk-ash-grey-ritual-robes-b45845141ed74a0abc191ac528e3e869",
+        "title": "Corrupted Monk - Ash-Grey Ritual Robes"
+      },
+      "runtime_sha256": "46ed081923119ea35c31a99ab4cd89dfb03d904c8def0778f492488bd1f0c2d1",
+      "source_sha256": "5159a51f3f14e9c944bf757a4fb33e30e06cafba7a259e1d98661585b27b7654",
+      "source_container_valid": true,
+      "modifications": "Normalized origin and height; textures resized to runtime budget; sculpt index chunks welded before decimation to preserve continuous surfaces and UV loops. Existing rigs preserved. Runtime root motion, spectral hover and combat poses added. Interior material adaptation reduces metallic response and disables incompatible second-UV normals."
+    },
+    {
+      "id": "soldier_6",
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (6)\\SLODIER\\shadow_monk_assassin_-_dark_fantasy.glb",
+      "derived": "assets\\provided\\soldier_6.glb",
+      "source_triangles": 1881200,
+      "runtime_triangles": 28000,
+      "rigged": false,
+      "texture_limit": 1024,
+      "seconds": 60.82,
+      "attribution": {
+        "author": "Pigcraft (https://sketchfab.com/s8819296)",
+        "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+        "source": "https://sketchfab.com/3d-models/shadow-monk-assassin-dark-fantasy-317f8ab8cf7041c1abb070d603c041ab",
+        "title": "Shadow Monk Assassin - Dark Fantasy"
+      },
+      "runtime_sha256": "d5e47331635a5d4b39ceedf95ea1552511c49bb20fb4e287da025010e4ce735a",
+      "source_sha256": "e546d786210bee1923cbe695b6bf5a78049056ca22aac75dcb58e70a23206c1d",
+      "source_container_valid": true,
+      "modifications": "Normalized origin and height; textures resized to runtime budget; sculpt index chunks welded before decimation to preserve continuous surfaces and UV loops. Existing rigs preserved. Runtime root motion, spectral hover and combat poses added. Interior material adaptation reduces metallic response and disables incompatible second-UV normals."
+    },
+    {
+      "id": "soldier_7",
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (7)\\SLODIER\\plague_assassin_-_dark_fantasy_character.glb",
+      "derived": "assets\\provided\\soldier_7.glb",
+      "source_triangles": 1908063,
+      "runtime_triangles": 27999,
+      "rigged": false,
+      "texture_limit": 1024,
+      "seconds": 53.97,
+      "attribution": {
+        "author": "Pigcraft (https://sketchfab.com/s8819296)",
+        "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+        "source": "https://sketchfab.com/3d-models/plague-assassin-dark-fantasy-character-e8b104a0f1504f9d8fb5d8374e964400",
+        "title": "Plague Assassin - Dark Fantasy Character"
+      },
+      "runtime_sha256": "1aab6f50532ca36c26920b759987ffce55041adbd39094792fa674784860b3b0",
+      "source_sha256": "bb050acdf8f6a7e04d5d33bd4d97e1fe8201931194f7cef62542c0dbf8f9a429",
+      "source_container_valid": true,
+      "modifications": "Normalized origin and height; textures resized to runtime budget; sculpt index chunks welded before decimation to preserve continuous surfaces and UV loops. Existing rigs preserved. Runtime root motion, spectral hover and combat poses added. Interior material adaptation reduces metallic response and disables incompatible second-UV normals."
+    },
+    {
+      "id": "soldier_8",
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (8)\\SLODIER\\desert_nomad_assassin_-_dark_fantasy.glb",
+      "derived": "assets\\provided\\soldier_8.glb",
+      "source_triangles": 1955547,
+      "runtime_triangles": 27999,
+      "rigged": false,
+      "texture_limit": 1024,
+      "seconds": 54.8,
+      "attribution": {
+        "author": "Pigcraft (https://sketchfab.com/s8819296)",
+        "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+        "source": "https://sketchfab.com/3d-models/desert-nomad-assassin-dark-fantasy-f9a2715ce7d247f090475013e8836132",
+        "title": "Desert Nomad Assassin - Dark Fantasy"
+      },
+      "runtime_sha256": "3ae9f529cf870101f5f3483015872edbc06a9fb644371f4fdbb996ea9173836c",
+      "source_sha256": "f3b53e34950958c1da9f29663f8ac901a7a92d28b2ecf271c12519420a9bcc3d",
+      "source_container_valid": true,
+      "modifications": "Normalized origin and height; textures resized to runtime budget; sculpt index chunks welded before decimation to preserve continuous surfaces and UV loops. Existing rigs preserved. Runtime root motion, spectral hover and combat poses added. Interior material adaptation reduces metallic response and disables incompatible second-UV normals."
+    },
+    {
+      "id": "soldier_9",
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (9)\\SLODIER\\executioner_angel_chained_wings_axe.glb",
+      "derived": "assets\\provided\\soldier_9.glb",
+      "source_triangles": 1958632,
+      "runtime_triangles": 28000,
+      "rigged": false,
+      "texture_limit": 1024,
+      "seconds": 50.49,
+      "attribution": {
+        "author": "Pigcraft (https://sketchfab.com/s8819296)",
+        "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+        "source": "https://sketchfab.com/3d-models/executioner-angel-chained-wings-axe-5ae2fd3ee5cd4f309d0285a4736900f8",
+        "title": "Executioner Angel Chained Wings Axe"
+      },
+      "runtime_sha256": "a7c7b22323b7fb228c95a87c9ca64ba75aaa2fb61d40e405e3c825eddb00712c",
+      "source_sha256": "85bfceba2ae07e020b4c6bca1f751ca2df2102ad37e03ecf8c921bdd75a1fd18",
+      "source_container_valid": true,
+      "modifications": "Normalized origin and height; textures resized to runtime budget; sculpt index chunks welded before decimation to preserve continuous surfaces and UV loops. Existing rigs preserved. Runtime root motion, spectral hover and combat poses added. Interior material adaptation reduces metallic response and disables incompatible second-UV normals."
+    },
+    {
+      "id": "subboss_2",
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (2)\\BOSS\\fallen_paladin_in_corrupted_black_plate_armor.glb",
+      "derived": "assets\\provided\\subboss_2.glb",
+      "source_triangles": 1992913,
+      "runtime_triangles": 64999,
+      "rigged": false,
+      "texture_limit": 2048,
+      "seconds": 58.85,
+      "attribution": {
+        "author": "Pigcraft (https://sketchfab.com/s8819296)",
+        "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+        "source": "https://sketchfab.com/3d-models/fallen-paladin-in-corrupted-black-plate-armor-df3056caff7e4f079bd4eec0fa9bcd54",
+        "title": "Fallen Paladin in Corrupted Black Plate Armor"
+      },
+      "runtime_sha256": "62ec3c1c1871763dea6922e160a762890552873abd0920b543d6e64aeddd8e84",
+      "source_sha256": "3ece873592061720cd28ad34b5b9308d5bbd7bc395ac455ae58dd120b557c1fe",
+      "source_container_valid": true,
+      "modifications": "Normalized origin and height; textures resized to runtime budget; sculpt index chunks welded before decimation to preserve continuous surfaces and UV loops. Existing rigs preserved. Runtime root motion, spectral hover and combat poses added. Interior material adaptation reduces metallic response and disables incompatible second-UV normals."
+    },
+    {
+      "id": "subboss_3",
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (3)\\BOSS\\demon_lord__ember-cracked_corrupted_armor.glb",
+      "derived": "assets\\provided\\subboss_3.glb",
+      "source_triangles": 1888595,
+      "runtime_triangles": 64999,
+      "rigged": false,
+      "texture_limit": 2048,
+      "seconds": 55.09,
+      "attribution": {
+        "author": "Pigcraft (https://sketchfab.com/s8819296)",
+        "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+        "source": "https://sketchfab.com/3d-models/demon-lord-ember-cracked-corrupted-armor-d85e2bf7adba4c69aa6c7eb24e3aa71a",
+        "title": "Demon Lord \u2013 Ember-Cracked Corrupted Armor"
+      },
+      "runtime_sha256": "4f2390159271fc96982c4210eec7e7137679cb967555d47b07c9afbf6cc08e3e",
+      "source_sha256": "8bff19a213fe0eff73f08ab10613a7a313ed75d59ee70c71a8c98c75bdb56302",
+      "source_container_valid": true,
+      "modifications": "Normalized origin and height; textures resized to runtime budget; sculpt index chunks welded before decimation to preserve continuous surfaces and UV loops. Existing rigs preserved. Runtime root motion, spectral hover and combat poses added. Interior material adaptation reduces metallic response and disables incompatible second-UV normals."
+    },
+    {
+      "id": "subboss_4",
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (4)\\BOSS\\dark_necromancer_-_corrupted_staff__skulls.glb",
+      "derived": "assets\\provided\\subboss_4.glb",
+      "source_triangles": 1893733,
+      "runtime_triangles": 64999,
+      "rigged": false,
+      "texture_limit": 2048,
+      "seconds": 53.84,
+      "attribution": {
+        "author": "Pigcraft (https://sketchfab.com/s8819296)",
+        "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+        "source": "https://sketchfab.com/3d-models/dark-necromancer-corrupted-staff-skulls-10c3bef4113b4e128ad41c9fdcab74e3",
+        "title": "Dark Necromancer - Corrupted Staff & Skulls"
+      },
+      "runtime_sha256": "e0423f6cf682b4709858e7b77eb25d6411185ce888d55009929536b291401644",
+      "source_sha256": "fe8d46dd6a3b606c191283bc479f25646636b3a9695dd23f3731f09a727e5f7e",
+      "source_container_valid": true,
+      "modifications": "Normalized origin and height; textures resized to runtime budget; sculpt index chunks welded before decimation to preserve continuous surfaces and UV loops. Existing rigs preserved. Runtime root motion, spectral hover and combat poses added. Interior material adaptation reduces metallic response and disables incompatible second-UV normals."
+    },
+    {
+      "id": "subboss_5",
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (5)\\BOSS\\fearsome_dark_knight_armor.glb",
+      "derived": "assets\\provided\\subboss_5.glb",
+      "source_triangles": 1970730,
+      "runtime_triangles": 65000,
+      "rigged": false,
+      "texture_limit": 2048,
+      "seconds": 39.43,
+      "attribution": {
+        "author": "Pigcraft (https://sketchfab.com/s8819296)",
+        "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+        "source": "https://sketchfab.com/3d-models/fearsome-dark-knight-armor-181df4a340b54a91b87ea01c79df12df",
+        "title": "Fearsome Dark Knight Armor"
+      },
+      "runtime_sha256": "8aa212290e1d41b14996b45695d38b2cae5efa856e40f437eb6d0cc4ff171524",
+      "source_sha256": "44921ad03f49ebe81df0db291f81f027391b5547a329c5b12325b21266bb08bb",
+      "source_container_valid": true,
+      "modifications": "Normalized origin and height; textures resized to runtime budget; sculpt index chunks welded before decimation to preserve continuous surfaces and UV loops. Existing rigs preserved. Runtime root motion, spectral hover and combat poses added. Interior material adaptation reduces metallic response and disables incompatible second-UV normals."
+    },
+    {
+      "id": "subboss_6",
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (6)\\BOSS\\executioner_warrior_-_hooded_axe__armor.glb",
+      "derived": "assets\\provided\\subboss_6.glb",
+      "source_triangles": 1895294,
+      "runtime_triangles": 64998,
+      "rigged": false,
+      "texture_limit": 2048,
+      "seconds": 56.2,
+      "attribution": {
+        "author": "Pigcraft (https://sketchfab.com/s8819296)",
+        "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+        "source": "https://sketchfab.com/3d-models/executioner-warrior-hooded-axe-armor-9924a0f56d164b29abf0c3bf0b2b2333",
+        "title": "Executioner Warrior - Hooded Axe & Armor"
+      },
+      "runtime_sha256": "1c010ded2e77926fe0dba7a5a7c556c20bd2638876ee0784d8e007d5e61e77a7",
+      "source_sha256": "f4eba5d0e579aa28a0ca4f02b99cf44af687284c6626d4268be8a400fc852620",
+      "source_container_valid": true,
+      "modifications": "Normalized origin and height; textures resized to runtime budget; sculpt index chunks welded before decimation to preserve continuous surfaces and UV loops. Existing rigs preserved. Runtime root motion, spectral hover and combat poses added. Interior material adaptation reduces metallic response and disables incompatible second-UV normals."
+    },
+    {
+      "id": "subboss_8",
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (8)\\BOSS\\dark_spiked_gothic_knight_with_broken_sword.glb",
+      "derived": "assets\\provided\\subboss_8.glb",
+      "source_triangles": 1000071,
+      "runtime_triangles": 64994,
+      "rigged": false,
+      "texture_limit": 2048,
+      "seconds": 25.52,
+      "attribution": {
+        "author": "Pigcraft (https://sketchfab.com/s8819296)",
+        "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+        "source": "https://sketchfab.com/3d-models/dark-spiked-gothic-knight-with-broken-sword-f3a1b95ea444409ebd0de017bceeb06b",
+        "title": "Dark Spiked Gothic Knight with Broken Sword"
+      },
+      "runtime_sha256": "dc7b5053da2ec56dc7dc48228303384a4da98fc75414cd35e85c0f0d1d7b2954",
+      "source_sha256": "82683718edf03c0a9043534aeb06e36d8c8d837741aca4aa0082197fbd364b18",
+      "source_container_valid": true,
+      "modifications": "Normalized origin and height; textures resized to runtime budget; sculpt index chunks welded before decimation to preserve continuous surfaces and UV loops. Existing rigs preserved. Runtime root motion, spectral hover and combat poses added. Interior material adaptation reduces metallic response and disables incompatible second-UV normals."
+    },
+    {
+      "id": "subboss_9",
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (9)\\BOSS\\corrupted_archangel_six_wings_boss.glb",
+      "derived": "assets\\provided\\subboss_9.glb",
+      "source_triangles": 1963878,
+      "runtime_triangles": 64998,
+      "rigged": false,
+      "texture_limit": 2048,
+      "seconds": 54.39,
+      "attribution": {
+        "author": "Pigcraft (https://sketchfab.com/s8819296)",
+        "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+        "source": "https://sketchfab.com/3d-models/corrupted-archangel-six-wings-boss-139d6f0185684ab9ae12fed7530c0696",
+        "title": "Corrupted Archangel Six Wings Boss"
+      },
+      "runtime_sha256": "3a90cf5bea877c0162a69fc0cafabb5e2496b9ce6cdc9d4d3d8c41fba199882f",
+      "source_sha256": "0ffdf544349709f45df7604849e578f43c5a28650d3e917e6b3154b16d2e5559",
+      "source_container_valid": true,
+      "modifications": "Normalized origin and height; textures resized to runtime budget; sculpt index chunks welded before decimation to preserve continuous surfaces and UV loops. Existing rigs preserved. Runtime root motion, spectral hover and combat poses added. Interior material adaptation reduces metallic response and disables incompatible second-UV normals."
+    },
+    {
+      "id": "female",
+      "source": "C:\\Users\\uppal\\Downloads\\girl_knight.glb",
+      "derived": "assets/provided/female.glb",
+      "runtime_triangles": 3596,
+      "rigged": true,
+      "native_dimensions": [
+        107.27619934082031,
+        44.48540496826172,
+        175.44517517089844
+      ],
+      "source_triangles": 3596,
+      "attribution": {
+        "author": "Long Nguy\u1ec5n (https://sketchfab.com/LongNguyen89)",
+        "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+        "source": "https://sketchfab.com/3d-models/girl-knight-ad8df356c4574131a58aa0267b4fc756",
+        "title": "Girl knight"
+      },
+      "source_sha256": "a7c07375145bc0c2803b21cb420b922c4f424e848f338ac4282ce2efaf94c0ac",
+      "source_container_valid": true,
+      "modifications": "Original mesh and textures preserved; normalized orientation and height; custom 18-bone combat deformation rig added.",
+      "runtime_sha256": "181b3e1cf4bd2409e4758bf2a10595a7d6c6e440f273a31eb3f7294adc7739b3"
+    },
+    {
+      "id": "omega",
+      "source": "C:\\Users\\uppal\\Downloads\\omega_knight.glb",
+      "derived": "assets/provided/omega.glb",
+      "runtime_triangles": 31130,
+      "rigged": true,
+      "native_dimensions": [
+        1.2293598651885986,
+        0.41303685307502747,
+        1.827776312828064
+      ],
+      "source_triangles": 31130,
+      "attribution": {
+        "author": "Professor E12^2 (https://sketchfab.com/profanity2009)",
+        "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+        "source": "https://sketchfab.com/3d-models/omega-knight-bd92ab179d7f42fda65f49e77adf21a7",
+        "title": "Omega knight"
+      },
+      "source_sha256": "6ab744257a4b721f4dd997b676d403d95c8fc8e83667d6fa0ab669d954686917",
+      "source_container_valid": true,
+      "modifications": "Original 167-bone rig, mesh and textures preserved; normalized height and origin; authored CC0 combat motions retargeted into the original rig.",
+      "runtime_sha256": "0fc5147bcb29974f44f391d5b95645f19a80385628abdc55ef9804a6f707ce1e"
+    },
+    {
+      "id": "sword",
+      "source": "C:\\Users\\uppal\\Downloads\\free__steampunk_da_vincis_sword_game-ready.glb",
+      "derived": "assets/provided/sword.glb",
+      "runtime_triangles": 35769,
+      "rigged": false,
+      "native_dimensions": [
+        2.249603271484375,
+        1.7108569145202637,
+        14.407630920410156
+      ],
+      "source_triangles": 35769,
+      "attribution": {
+        "author": "nodgerty (https://sketchfab.com/nodgert111)",
+        "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+        "source": "https://sketchfab.com/3d-models/free-steampunk-da-vincis-sword-game-ready-e4b2035b156847bab6f4139b4fb1e785",
+        "title": "FREE | Steampunk Da Vinci`s Sword (Game-Ready)"
+      },
+      "source_sha256": "5f7a0ab78350225d7af82add2fb0044ae65451ecb9495b4f960b415724fb7689",
+      "source_container_valid": true,
+      "modifications": "Original mesh and material textures preserved; texture resolution limited to 2048; aligned blade axis and grip origin; metallic/roughness adapted for the dark interior.",
+      "runtime_sha256": "777b81456962733d981bb48215f1dfd8402e8391756b5bc5bf902224aeba4c58"
+    }
+  ],
+  "notes": [
+    "Source originals were not modified.",
+    "The damaged Hornet file is not used. User-selected Girl Knight and Omega Knight replace it.",
+    "Both player forms, subboss_1, subboss_7 and soldier_1 have retargeted motion. Eighteen additional enemy derivatives have 13-bone region-weighted rigs with custom procedural poses. Original GLBs and existing rigs remain preserved.",
+    "Materials and source UVs are preserved. Source files using separate normal-map UV sets may show small shading differences in Godot."
+  ],
+  "motion": {
+    "source": "Godot/AnimationLibrary_Godot_Standard.glb",
+    "source_name": "Quaternius Universal Animation Library",
+    "license": "CC0-1.0",
+    "retargeted_assets": [
+      {
+        "id": "female",
+        "library": "assets/motion/female_combat.res",
+        "clips": 35,
+        "sha256": "f2489be01d553cffb5580f6209940928f2f1c3fa61b17cb6a8768b556add1b4b"
+      },
+      {
+        "id": "omega",
+        "library": "assets/motion/omega_combat.res",
+        "clips": 35,
+        "sha256": "1af1a6d0ec3da4cec206e1771ea2ca3379f677d9300ff3392eb6f7a4788fc1ca"
+      },
+      {
+        "id": "subboss_7",
+        "library": "assets/motion/subboss_7_combat.res",
+        "clips": 35,
+        "sha256": "1466bf1c5352c29d4fccbee4c038cde8b14242523abec143a937dbe4ca617c10"
+      },
+      {
+        "id": "soldier_1",
+        "library": "assets/motion/soldier_1_combat.res",
+        "clips": 35,
+        "sha256": "acbb25ccd83f6be5dc1d67b7b70ec8b4adf7600d421663e7680ef2f358ea2129"
+      },
+      {
+        "id": "subboss_1",
+        "library": "assets/motion/subboss_1_combat.res",
+        "clips": 35,
+        "sha256": "96ea50ec5f5e798a61654015cdefc5f3331ceca06f890bd6329accf2ba157234"
+      }
+    ]
+  },
+  "sculpt_motion": [
+    {
+      "bones": 13,
+      "id": "subboss_2",
+      "spectral": false,
+      "status": 0,
+      "weighted_vertices": 43474,
+      "derived": "assets/sculpt_motion/subboss_2.scn",
+      "source_derivative": "assets/provided/subboss_2.glb",
+      "sha256": "1d067b457b5d82be8b0f24d4abbbc9122fc0134a219ebc966f8c4adef49949f4",
+      "modifications": "13-bone region-weighted skin; preserved positions, normals, primary UVs and source materials; custom procedural body, limb, robe and wing poses."
+    },
+    {
+      "bones": 13,
+      "id": "subboss_3",
+      "spectral": false,
+      "status": 0,
+      "weighted_vertices": 43932,
+      "derived": "assets/sculpt_motion/subboss_3.scn",
+      "source_derivative": "assets/provided/subboss_3.glb",
+      "sha256": "fc90d31857cb1a3dfebb596708b192f8f1d476f3dfa57685627b39c997a0fb59",
+      "modifications": "13-bone region-weighted skin; preserved positions, normals, primary UVs and source materials; custom procedural body, limb, robe and wing poses."
+    },
+    {
+      "bones": 13,
+      "id": "subboss_4",
+      "spectral": true,
+      "status": 0,
+      "weighted_vertices": 46686,
+      "derived": "assets/sculpt_motion/subboss_4.scn",
+      "source_derivative": "assets/provided/subboss_4.glb",
+      "sha256": "b44f3e4926f86b794286287cd87696d6b4a0e9090004f0978d25c4a560e53721",
+      "modifications": "13-bone region-weighted skin; preserved positions, normals, primary UVs and source materials; custom procedural body, limb, robe and wing poses."
+    },
+    {
+      "bones": 13,
+      "id": "subboss_5",
+      "spectral": true,
+      "status": 0,
+      "weighted_vertices": 43123,
+      "derived": "assets/sculpt_motion/subboss_5.scn",
+      "source_derivative": "assets/provided/subboss_5.glb",
+      "sha256": "a7a304ad48a3a764c5e14cade59e8f40a8835eacdb2982a4a6594c62d158e31d",
+      "modifications": "13-bone region-weighted skin; preserved positions, normals, primary UVs and source materials; custom procedural body, limb, robe and wing poses."
+    },
+    {
+      "bones": 13,
+      "id": "subboss_6",
+      "spectral": false,
+      "status": 0,
+      "weighted_vertices": 40374,
+      "derived": "assets/sculpt_motion/subboss_6.scn",
+      "source_derivative": "assets/provided/subboss_6.glb",
+      "sha256": "4e7ff33549eed454b511e3897da95d6f3557e532b4310fa43fa566a53c938d45",
+      "modifications": "13-bone region-weighted skin; preserved positions, normals, primary UVs and source materials; custom procedural body, limb, robe and wing poses."
+    },
+    {
+      "bones": 13,
+      "id": "subboss_8",
+      "spectral": false,
+      "status": 0,
+      "weighted_vertices": 43469,
+      "derived": "assets/sculpt_motion/subboss_8.scn",
+      "source_derivative": "assets/provided/subboss_8.glb",
+      "sha256": "3cae4acf50c29420abdf07a57627fbb39eb9340624d7f442156d8568139353fd",
+      "modifications": "13-bone region-weighted skin; preserved positions, normals, primary UVs and source materials; custom procedural body, limb, robe and wing poses."
+    },
+    {
+      "bones": 13,
+      "id": "subboss_9",
+      "spectral": true,
+      "status": 0,
+      "weighted_vertices": 46765,
+      "derived": "assets/sculpt_motion/subboss_9.scn",
+      "source_derivative": "assets/provided/subboss_9.glb",
+      "sha256": "6fcaa6361efc791531296d2eb965ec4396f13f79947061b0de1e2a29a2c65051",
+      "modifications": "13-bone region-weighted skin; preserved positions, normals, primary UVs and source materials; custom procedural body, limb, robe and wing poses."
+    },
+    {
+      "bones": 13,
+      "id": "soldier_2",
+      "spectral": false,
+      "status": 0,
+      "weighted_vertices": 21137,
+      "derived": "assets/sculpt_motion/soldier_2.scn",
+      "source_derivative": "assets/provided/soldier_2.glb",
+      "sha256": "64d4b794fd7c230e2befe314c018d881f9d8d878eff1cf1765056ee0c0e610f9",
+      "modifications": "13-bone region-weighted skin; preserved positions, normals, primary UVs and source materials; custom procedural body, limb, robe and wing poses."
+    },
+    {
+      "bones": 13,
+      "id": "soldier_3",
+      "spectral": false,
+      "status": 0,
+      "weighted_vertices": 21953,
+      "derived": "assets/sculpt_motion/soldier_3.scn",
+      "source_derivative": "assets/provided/soldier_3.glb",
+      "sha256": "0b21447b59471d8a5d8a988667dfbaf54ab2c7db50b3ad58ff12ec181c2da630",
+      "modifications": "13-bone region-weighted skin; preserved positions, normals, primary UVs and source materials; custom procedural body, limb, robe and wing poses."
+    },
+    {
+      "bones": 13,
+      "id": "soldier_4",
+      "spectral": true,
+      "status": 0,
+      "weighted_vertices": 19318,
+      "derived": "assets/sculpt_motion/soldier_4.scn",
+      "source_derivative": "assets/provided/soldier_4.glb",
+      "sha256": "fc049f57ea6ae65ead509bf1c67a812b80cd1e8aa1122fa57d03f2aa473b5397",
+      "modifications": "13-bone region-weighted skin; preserved positions, normals, primary UVs and source materials; custom procedural body, limb, robe and wing poses."
+    },
+    {
+      "bones": 13,
+      "id": "soldier_5",
+      "spectral": true,
+      "status": 0,
+      "weighted_vertices": 21297,
+      "derived": "assets/sculpt_motion/soldier_5.scn",
+      "source_derivative": "assets/provided/soldier_5.glb",
+      "sha256": "23dd3abc9754dfbc38dbd9c4d1e0b42d9b14ce5f291240ca6801f12718148ee0",
+      "modifications": "13-bone region-weighted skin; preserved positions, normals, primary UVs and source materials; custom procedural body, limb, robe and wing poses."
+    },
+    {
+      "bones": 13,
+      "id": "soldier_6",
+      "spectral": false,
+      "status": 0,
+      "weighted_vertices": 19418,
+      "derived": "assets/sculpt_motion/soldier_6.scn",
+      "source_derivative": "assets/provided/soldier_6.glb",
+      "sha256": "944af840a924442d6e0a426c448a669585b4769e86fa2d5bf89618c4e5715a8c",
+      "modifications": "13-bone region-weighted skin; preserved positions, normals, primary UVs and source materials; custom procedural body, limb, robe and wing poses."
+    },
+    {
+      "bones": 13,
+      "id": "soldier_7",
+      "spectral": false,
+      "status": 0,
+      "weighted_vertices": 19159,
+      "derived": "assets/sculpt_motion/soldier_7.scn",
+      "source_derivative": "assets/provided/soldier_7.glb",
+      "sha256": "498f2336c6005aaad7e53fef53c919f1edc04f790f71a31d12c0919e3fb3138d",
+      "modifications": "13-bone region-weighted skin; preserved positions, normals, primary UVs and source materials; custom procedural body, limb, robe and wing poses."
+    },
+    {
+      "bones": 13,
+      "id": "soldier_8",
+      "spectral": false,
+      "status": 0,
+      "weighted_vertices": 19408,
+      "derived": "assets/sculpt_motion/soldier_8.scn",
+      "source_derivative": "assets/provided/soldier_8.glb",
+      "sha256": "fc1c06fcb508c12655888cc84441e1417d48dfc3fb2aadddae1c4b8185bed884",
+      "modifications": "13-bone region-weighted skin; preserved positions, normals, primary UVs and source materials; custom procedural body, limb, robe and wing poses."
+    },
+    {
+      "bones": 13,
+      "id": "soldier_9",
+      "spectral": true,
+      "status": 0,
+      "weighted_vertices": 23364,
+      "derived": "assets/sculpt_motion/soldier_9.scn",
+      "source_derivative": "assets/provided/soldier_9.glb",
+      "sha256": "0b32e79ad86bf8251022d564ecdfb90bcbbacc460aa9a7e9def9bca10c53748b",
+      "modifications": "13-bone region-weighted skin; preserved positions, normals, primary UVs and source materials; custom procedural body, limb, robe and wing poses."
+    },
+    {
+      "bones": 13,
+      "id": "grand_boss",
+      "spectral": false,
+      "status": 0,
+      "weighted_vertices": 48158,
+      "derived": "assets/sculpt_motion/grand_boss.scn",
+      "source_derivative": "assets/provided/grand_boss.glb",
+      "sha256": "effcfff0b47118df67147a5f5054a6c5e8b595c1f98617280202faaaaefce095",
+      "modifications": "13-bone region-weighted skin; preserved positions, normals, primary UVs and source materials; custom procedural body, limb, robe and wing poses."
+    },
+    {
+      "bones": 13,
+      "id": "grand_soldier",
+      "spectral": true,
+      "status": 0,
+      "weighted_vertices": 27964,
+      "derived": "assets/sculpt_motion/grand_soldier.scn",
+      "source_derivative": "assets/provided/grand_soldier.glb",
+      "sha256": "7321eaa2e273bbd2110d321a8d0ccbee6aa79f0266bac4b275d9893c539b8870",
+      "modifications": "13-bone region-weighted skin; preserved positions, normals, primary UVs and source materials; custom procedural body, limb, robe and wing poses."
+    },
+    {
+      "bones": 13,
+      "id": "main_boss",
+      "spectral": true,
+      "status": 0,
+      "weighted_vertices": 43320,
+      "derived": "assets/sculpt_motion/main_boss.scn",
+      "source_derivative": "assets/provided/main_boss.glb",
+      "sha256": "904f1ab3167b31a7aa7085826cb6369fd1103ef4fef03f89fd36f03e13c7b831",
+      "modifications": "13-bone region-weighted skin; preserved positions, normals, primary UVs and source materials; custom procedural body, limb, robe and wing poses."
+    }
+  ]
+}

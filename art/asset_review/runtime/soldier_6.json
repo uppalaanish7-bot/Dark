@@ -1,0 +1,16 @@
+{
+  "id": "soldier_6",
+  "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (6)\\SLODIER\\shadow_monk_assassin_-_dark_fantasy.glb",
+  "derived": "assets\\provided\\soldier_6.glb",
+  "source_triangles": 1881200,
+  "runtime_triangles": 28000,
+  "rigged": false,
+  "texture_limit": 1024,
+  "seconds": 60.82,
+  "attribution": {
+    "author": "Pigcraft (https://sketchfab.com/s8819296)",
+    "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "source": "https://sketchfab.com/3d-models/shadow-monk-assassin-dark-fantasy-317f8ab8cf7041c1abb070d603c041ab",
+    "title": "Shadow Monk Assassin - Dark Fantasy"
+  }
+}

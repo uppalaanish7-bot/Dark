@@ -1,0 +1,74 @@
+{
+  "meshes": 10,
+  "material_surfaces": 35,
+  "triangles": 136506,
+  "godot_bounds_min": [
+    -80,
+    0,
+    -40
+  ],
+  "godot_bounds_max": [
+    80,
+    150,
+    40
+  ],
+  "dimensions_width_height_depth_m": [
+    160,
+    150,
+    80
+  ],
+  "vestibule_width_height_depth_m": [
+    4.4,
+    4.5,
+    6
+  ],
+  "vestibule_front_z": 40,
+  "vestibule_back_z": 34,
+  "stone_texture_repeat_m": 8.0,
+  "baked_texture_resolution": [
+    2048,
+    2048
+  ],
+  "checks": [
+    {
+      "name": "vestibule floor",
+      "hit_distance_m": 2.0,
+      "front_facing": true
+    },
+    {
+      "name": "vestibule ceiling",
+      "hit_distance_m": 2.5,
+      "front_facing": true
+    },
+    {
+      "name": "vestibule left wall",
+      "hit_distance_m": 2.200000047683716,
+      "front_facing": true
+    },
+    {
+      "name": "vestibule right wall",
+      "hit_distance_m": 2.200000047683716,
+      "front_facing": true
+    },
+    {
+      "name": "vestibule solid back wall",
+      "hit_distance_m": 3.0,
+      "front_facing": true
+    },
+    {
+      "name": "entrance clear to outdoors",
+      "hit_distance_m": null,
+      "front_facing": false
+    },
+    {
+      "name": "sealed rear at ground",
+      "hit_distance_m": 6.769568920135498,
+      "front_facing": true
+    },
+    {
+      "name": "sealed central roof",
+      "hit_distance_m": 10.0,
+      "front_facing": true
+    }
+  ]
+}

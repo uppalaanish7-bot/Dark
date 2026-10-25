@@ -1,0 +1,16 @@
+{
+  "id": "subboss_5",
+  "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (5)\\BOSS\\fearsome_dark_knight_armor.glb",
+  "derived": "assets\\provided\\subboss_5.glb",
+  "source_triangles": 1970730,
+  "runtime_triangles": 65000,
+  "rigged": false,
+  "texture_limit": 2048,
+  "seconds": 39.43,
+  "attribution": {
+    "author": "Pigcraft (https://sketchfab.com/s8819296)",
+    "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "source": "https://sketchfab.com/3d-models/fearsome-dark-knight-armor-181df4a340b54a91b87ea01c79df12df",
+    "title": "Fearsome Dark Knight Armor"
+  }
+}

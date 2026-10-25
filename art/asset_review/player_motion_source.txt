@@ -1,0 +1,102 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+CLIP A_TPose 0.16666667163372 tracks=53
+CLIP Crouch_Fwd 2.0 tracks=53
+CLIP Crouch_Idle 2.93333339691162 tracks=53
+CLIP Dance 1.0 tracks=53
+CLIP Death01 2.40000009536743 tracks=53
+CLIP Driving 1.66666662693024 tracks=53
+CLIP Fixing_Kneeling 5.19999980926514 tracks=53
+CLIP Hit_Chest 0.33333334326744 tracks=53
+CLIP Hit_Head 0.43333333730698 tracks=53
+CLIP Idle 2.5 tracks=53
+CLIP Idle_Talking 2.93333339691162 tracks=53
+CLIP Idle_Torch 1.26666665077209 tracks=53
+CLIP Interact 2.0 tracks=53
+CLIP Jog_Fwd 0.93333333730698 tracks=53
+CLIP Jump 2.5 tracks=53
+CLIP Jump_Land 1.26666665077209 tracks=53
+CLIP Jump_Start 1.33333337306976 tracks=53
+CLIP PickUp_Table 0.83333331346512 tracks=53
+CLIP Pistol_Aim_Down 0.16666667163372 tracks=53
+CLIP Pistol_Aim_Neutral 0.16666667163372 tracks=53
+CLIP Pistol_Aim_Up 0.16666667163372 tracks=53
+CLIP Pistol_Idle 1.66666662693024 tracks=53
+CLIP Pistol_Reload 1.66666662693024 tracks=53
+CLIP Pistol_Shoot 0.63333332538605 tracks=53
+CLIP Punch_Cross 1.0 tracks=53
+CLIP Punch_Enter 0.86666667461395 tracks=53
+CLIP Punch_Jab 0.86666667461395 tracks=53
+CLIP Push 2.66666674613953 tracks=53
+CLIP Roll 1.46666669845581 tracks=53
+CLIP Roll_RM 1.46666669845581 tracks=53
+CLIP Sitting_Enter 1.29999995231628 tracks=53
+CLIP Sitting_Exit 1.03333330154419 tracks=53
+CLIP Sitting_Idle 1.66666662693024 tracks=53
+CLIP Sitting_Talking 2.93333339691162 tracks=53
+CLIP Spell_Simple_Enter 0.53333336114883 tracks=53
+CLIP Spell_Simple_Exit 0.43333333730698 tracks=53
+CLIP Spell_Simple_Idle 2.09999990463257 tracks=53
+CLIP Spell_Simple_Shoot 0.5 tracks=53
+CLIP Sprint 0.66666668653488 tracks=53
+CLIP Swim_Fwd 1.33333337306976 tracks=53
+CLIP Swim_Idle 3.33333325386047 tracks=53
+CLIP Sword_Attack 1.53333330154419 tracks=53
+CLIP Sword_Attack_RM 1.53333330154419 tracks=53
+CLIP Sword_Idle 1.66666662693024 tracks=53
+CLIP Walk 1.33333337306976 tracks=53
+CLIP Walk_Formal 1.33333337306976 tracks=53
+SKELETON Rig/Skeleton3D basis [X: (1.0, 0.0, 0.0), Y: (0.0, 1.0, 0.0), Z: (0.0, 0.0, 1.0)]
+BONE 0 root (0.0, 0.0, 0.0)
+BONE 1 DEF-hips (0.0, 0.9167, -0.0501)
+BONE 2 DEF-spine.001 (0.0, 1.0505, -0.0156)
+BONE 3 DEF-spine.002 (0.0, 1.1736, -0.0004)
+BONE 4 DEF-spine.003 (0.0, 1.3148, -0.0049)
+BONE 5 DEF-neck (0.0, 1.4876, -0.0105)
+BONE 6 DEF-head (0.0, 1.5687, 0.0051)
+BONE 7 DEF-shoulder.L (0.0188, 1.4579, 0.0714)
+BONE 8 DEF-upper_arm.L (0.1919, 1.4408, -0.0654)
+BONE 9 DEF-forearm.L (0.4663, 1.4408, -0.0701)
+BONE 10 DEF-hand.L (0.7389, 1.4408, -0.0654)
+BONE 11 DEF-f_index.01.L (0.8588, 1.4388, -0.0345)
+BONE 12 DEF-f_index.02.L (0.8995, 1.4388, -0.0345)
+BONE 13 DEF-f_index.03.L (0.9343, 1.4388, -0.0345)
+BONE 14 DEF-f_middle.01.L (0.8605, 1.4412, -0.0602)
+BONE 15 DEF-f_middle.02.L (0.9028, 1.4412, -0.0622)
+BONE 16 DEF-f_middle.03.L (0.9367, 1.4412, -0.0637)
+BONE 17 DEF-f_pinky.01.L (0.8466, 1.4392, -0.1062)
+BONE 18 DEF-f_pinky.02.L (0.8868, 1.4392, -0.1089)
+BONE 19 DEF-f_pinky.03.L (0.9144, 1.4392, -0.1108)
+BONE 20 DEF-f_ring.01.L (0.858, 1.4409, -0.0825)
+BONE 21 DEF-f_ring.02.L (0.8973, 1.4409, -0.0839)
+BONE 22 DEF-f_ring.03.L (0.9282, 1.4409, -0.085)
+BONE 23 DEF-thumb.01.L (0.7662, 1.418, -0.0318)
+BONE 24 DEF-thumb.02.L (0.8004, 1.3988, -0.0141)
+BONE 25 DEF-thumb.03.L (0.8394, 1.3769, 0.0061)
+BONE 26 DEF-shoulder.R (-0.0188, 1.4579, 0.0714)
+BONE 27 DEF-upper_arm.R (-0.1919, 1.4408, -0.0654)
+BONE 28 DEF-forearm.R (-0.4663, 1.4408, -0.0701)
+BONE 29 DEF-hand.R (-0.7389, 1.4408, -0.0654)
+BONE 30 DEF-f_index.01.R (-0.8588, 1.4388, -0.0345)
+BONE 31 DEF-f_index.02.R (-0.8995, 1.4388, -0.0345)
+BONE 32 DEF-f_index.03.R (-0.9343, 1.4388, -0.0345)
+BONE 33 DEF-f_middle.01.R (-0.8605, 1.4412, -0.0602)
+BONE 34 DEF-f_middle.02.R (-0.9028, 1.4412, -0.0622)
+BONE 35 DEF-f_middle.03.R (-0.9367, 1.4412, -0.0637)
+BONE 36 DEF-f_pinky.01.R (-0.8466, 1.4392, -0.1062)
+BONE 37 DEF-f_pinky.02.R (-0.8868, 1.4392, -0.1089)
+BONE 38 DEF-f_pinky.03.R (-0.9144, 1.4392, -0.1108)
+BONE 39 DEF-f_ring.01.R (-0.858, 1.4409, -0.0825)
+BONE 40 DEF-f_ring.02.R (-0.8973, 1.4409, -0.0839)
+BONE 41 DEF-f_ring.03.R (-0.9282, 1.4409, -0.085)
+BONE 42 DEF-thumb.01.R (-0.7662, 1.418, -0.0318)
+BONE 43 DEF-thumb.02.R (-0.8004, 1.3988, -0.0141)
+BONE 44 DEF-thumb.03.R (-0.8394, 1.3769, 0.0061)
+BONE 45 DEF-thigh.L (0.089, 0.9321, 0.0014)
+BONE 46 DEF-shin.L (0.089, 0.5318, -0.0014)
+BONE 47 DEF-foot.L (0.089, 0.1037, -0.0358)
+BONE 48 DEF-toe.L (0.089, 0.0152, 0.1132)
+BONE 49 DEF-thigh.R (-0.089, 0.9321, 0.0014)
+BONE 50 DEF-shin.R (-0.089, 0.5318, -0.0014)
+BONE 51 DEF-foot.R (-0.089, 0.1037, -0.0358)
+BONE 52 DEF-toe.R (-0.089, 0.0152, 0.1132)

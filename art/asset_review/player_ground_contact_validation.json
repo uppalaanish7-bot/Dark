@@ -1,0 +1,13 @@
+{
+	"actors": [
+		{
+			"id": "female",
+			"max_skinned_sole_error_m": 0.00125397369265556
+		},
+		{
+			"id": "omega",
+			"max_skinned_sole_error_m": 0.00201974995434284
+		}
+	],
+	"failures": []
+}

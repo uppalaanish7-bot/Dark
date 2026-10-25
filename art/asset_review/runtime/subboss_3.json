@@ -1,0 +1,16 @@
+{
+  "id": "subboss_3",
+  "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (3)\\BOSS\\demon_lord__ember-cracked_corrupted_armor.glb",
+  "derived": "assets\\provided\\subboss_3.glb",
+  "source_triangles": 1888595,
+  "runtime_triangles": 64999,
+  "rigged": false,
+  "texture_limit": 2048,
+  "seconds": 55.09,
+  "attribution": {
+    "author": "Pigcraft (https://sketchfab.com/s8819296)",
+    "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "source": "https://sketchfab.com/3d-models/demon-lord-ember-cracked-corrupted-armor-d85e2bf7adba4c69aa6c7eb24e3aa71a",
+    "title": "Demon Lord \u2013 Ember-Cracked Corrupted Armor"
+  }
+}

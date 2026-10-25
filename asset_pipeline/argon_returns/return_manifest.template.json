@@ -1,0 +1,19 @@
+{
+  "asset_id": "",
+  "returned_filename": "",
+  "received_date": "",
+  "argon_job_id": "",
+  "argon_version": "",
+  "source_asset_id": "",
+  "original_source_path": "",
+  "source_sha256": "",
+  "returned_sha256": "",
+  "rig_or_skeleton_changed": null,
+  "animation_clip_names": [],
+  "texture_review": "pending",
+  "identity_review": "pending",
+  "rig_compatibility_review": "pending",
+  "godot_import_review": "pending",
+  "review_status": "unreviewed",
+  "notes": ""
+}

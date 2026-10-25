@@ -1,0 +1,17 @@
+{
+	"actors": [
+		{
+			"bones": 20,
+			"clips": 51,
+			"id": "female",
+			"idle_phase_advanced": true
+		},
+		{
+			"bones": 167,
+			"clips": 51,
+			"id": "omega",
+			"idle_phase_advanced": true
+		}
+	],
+	"failures": []
+}

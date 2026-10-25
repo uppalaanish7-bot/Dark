@@ -1,0 +1,16 @@
+{
+  "id": "soldier_3",
+  "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (3)\\SLODIER\\blood_priest_in_crimson_ritual_robes.glb",
+  "derived": "assets\\provided\\soldier_3.glb",
+  "source_triangles": 1889841,
+  "runtime_triangles": 27999,
+  "rigged": false,
+  "texture_limit": 1024,
+  "seconds": 52.97,
+  "attribution": {
+    "author": "Pigcraft (https://sketchfab.com/s8819296)",
+    "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "source": "https://sketchfab.com/3d-models/blood-priest-in-crimson-ritual-robes-8055a4c59bf7451c8b95db8baab58909",
+    "title": "Blood Priest in Crimson Ritual Robes"
+  }
+}

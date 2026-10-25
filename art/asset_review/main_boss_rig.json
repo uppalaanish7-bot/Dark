@@ -1,0 +1,21 @@
+{
+  "id": "main_boss",
+  "bones": 19,
+  "weighted_vertices": 43320,
+  "regions": {
+    "pelvis": 11313,
+    "hand_r": 8815,
+    "hand_l": 3208,
+    "cape": 8471,
+    "lowerarm_l": 1460,
+    "upperarm_l": 1053,
+    "neck": 1291,
+    "spine_03": 1359,
+    "spine_01": 2800,
+    "head": 1599,
+    "lowerarm_r": 902,
+    "upperarm_r": 1049
+  },
+  "previous_runtime": "backups\\pre-authored-animation\\main_boss.glb",
+  "source_geometry_preserved": true
+}

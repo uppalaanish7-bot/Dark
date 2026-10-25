@@ -1,0 +1,2450 @@
+{
+  "source_root": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts",
+  "files": 22,
+  "total_bytes": 2400167819,
+  "valid_containers": 21,
+  "assets": [
+    {
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Boss\\grim_reaper_dark_knight_warrior.glb",
+      "relative_path": "Boss/grim_reaper_dark_knight_warrior.glb",
+      "role": "Main boss",
+      "bytes": 67897284,
+      "errors": [],
+      "version": 2,
+      "declared_bytes": 67897284,
+      "asset_metadata": {
+        "extras": {
+          "author": "Pigcraft (https://sketchfab.com/s8819296)",
+          "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+          "source": "https://sketchfab.com/3d-models/grim-reaper-dark-knight-warrior-6a31ad680aa2441d9e63964fd0a889f7",
+          "title": "Grim Reaper Dark Knight Warrior"
+        },
+        "generator": "Sketchfab-16.95.0",
+        "version": "2.0"
+      },
+      "extensions_required": [],
+      "meshes": 13,
+      "primitives": 13,
+      "triangles": 979228,
+      "vertices": 848550,
+      "skins": [],
+      "animations": [],
+      "materials": [
+        "tripo_mat_2b7f516e"
+      ],
+      "external_uris": [],
+      "images": [
+        {
+          "name": "",
+          "mime": "image/jpeg",
+          "embedded": true,
+          "bytes": 507419
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 1122584
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 188283
+        }
+      ],
+      "container_valid": true,
+      "sha256": "9d2be4ea5f0ae3ef9b2053b1abfa666e007a463652c69a6bd77233476c7c32b1"
+    },
+    {
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Boss Sub Guard\\Guard solider\\obsidian_warden_shadow_hunter.glb",
+      "relative_path": "Boss Sub Guard/Guard solider/obsidian_warden_shadow_hunter.glb",
+      "role": "Main boss guard",
+      "bytes": 57547736,
+      "errors": [],
+      "version": 2,
+      "declared_bytes": 57547736,
+      "asset_metadata": {
+        "extras": {
+          "author": "iRahulRajput (https://sketchfab.com/rt699448)",
+          "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+          "source": "https://sketchfab.com/3d-models/obsidian-warden-shadow-hunter-536036870e7245db8d1956a4bb285122",
+          "title": "Obsidian Warden shadow hunter"
+        },
+        "generator": "Sketchfab-17.8.0",
+        "version": "2.0"
+      },
+      "extensions_required": [],
+      "meshes": 10,
+      "primitives": 10,
+      "triangles": 953825,
+      "vertices": 593575,
+      "skins": [],
+      "animations": [],
+      "materials": [
+        "material_0"
+      ],
+      "external_uris": [],
+      "images": [
+        {
+          "name": "",
+          "mime": "image/jpeg",
+          "embedded": true,
+          "bytes": 2005159
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 1290585
+        },
+        {
+          "name": "",
+          "mime": "image/jpeg",
+          "embedded": true,
+          "bytes": 49440
+        }
+      ],
+      "container_valid": true,
+      "sha256": "543d9b367ff709b10ec66c5464d85e8c6ccf5977f0b531523855ca48475b98d6"
+    },
+    {
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Boss Sub Guard\\gurad\\ember_winged_fallen_angel_warrior.glb",
+      "relative_path": "Boss Sub Guard/gurad/ember_winged_fallen_angel_warrior.glb",
+      "role": "Main boss guard",
+      "bytes": 120714432,
+      "errors": [],
+      "version": 2,
+      "declared_bytes": 120714432,
+      "asset_metadata": {
+        "extras": {
+          "author": "Pigcraft (https://sketchfab.com/s8819296)",
+          "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+          "source": "https://sketchfab.com/3d-models/ember-winged-fallen-angel-warrior-a47e02e8f82640deb483c97cca81bb67",
+          "title": "Ember Winged Fallen Angel Warrior"
+        },
+        "generator": "Sketchfab-0.5.0",
+        "version": "2.0"
+      },
+      "extensions_required": [],
+      "meshes": 19,
+      "primitives": 19,
+      "triangles": 1881092,
+      "vertices": 1225611,
+      "skins": [],
+      "animations": [],
+      "materials": [
+        "tripo_mat_e5b85d13"
+      ],
+      "external_uris": [],
+      "images": [
+        {
+          "name": "",
+          "mime": "image/jpeg",
+          "embedded": true,
+          "bytes": 4446833
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4096,
+          "height": 4096,
+          "bytes": 9747218
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4096,
+          "height": 4096,
+          "bytes": 5478442
+        }
+      ],
+      "container_valid": true,
+      "sha256": "a204688bef928e42189b0150a41f4952bdf7d792029d95a118956eeed11621fd"
+    },
+    {
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Character\\Female\\silksong__hornet_fanart.glb",
+      "relative_path": "Character/Female/silksong__hornet_fanart.glb",
+      "role": "Player (female, user selected)",
+      "bytes": 129039695,
+      "errors": [
+        "Header length 2,092,810,223 differs from actual 129,039,695"
+      ],
+      "version": 2,
+      "declared_bytes": 2092810223,
+      "header_hex": "676c544602000000efbfbd7c4804efbfbd7400004a534f4e",
+      "utf8_replacement_sequences_in_first_2mib": 274296,
+      "metadata_salvaged_only": true,
+      "asset_metadata": {
+        "extras": {
+          "author": "dark_igorek (https://sketchfab.com/dark_igorek)",
+          "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+          "source": "https://sketchfab.com/3d-models/silksong-hornet-fanart-57d431b977c841ef8c117af82f109890",
+          "title": "Silksong || Hornet Fanart"
+        },
+        "generator": "Sketchfab-16.74.0",
+        "version": "2.0"
+      },
+      "extensions_required": [],
+      "meshes": 5,
+      "primitives": 5,
+      "triangles": 62272,
+      "vertices": 37293,
+      "skins": [
+        {
+          "name": "",
+          "joints": 65,
+          "bone_names": [
+            "GLTF_created_0_rootJoint",
+            "root.x_63",
+            "spine_01.x_54",
+            "spine_02.x_53",
+            "neck.x_1",
+            "head.x_0",
+            "shoulder.l_25",
+            "arm_stretch.l_23",
+            "forearm_stretch.l_22",
+            "hand.l_21",
+            "index1_base.l_5",
+            "index1.l_4",
+            "index2.l_3",
+            "index3.l_2",
+            "middle1_base.l_9",
+            "middle1.l_8",
+            "middle2.l_7",
+            "middle3.l_6",
+            "pinky1_base.l_13",
+            "pinky1.l_12",
+            "pinky2.l_11",
+            "pinky3.l_10",
+            "ring1_base.l_17",
+            "ring1.l_16",
+            "ring2.l_15",
+            "ring3.l_14",
+            "thumb1.l_20",
+            "thumb2.l_19",
+            "thumb3.l_18",
+            "shoulder.l.001_24",
+            "shoulder.r_49",
+            "arm_stretch.r_47",
+            "forearm_stretch.r_46",
+            "hand.r_45",
+            "index1_base.r_29",
+            "index1.r_28",
+            "index2.r_27",
+            "index3.r_26",
+            "middle1_base.r_33",
+            "middle1.r_32",
+            "middle2.r_31",
+            "middle3.r_30",
+            "pinky1_base.r_37",
+            "pinky1.r_36",
+            "pinky2.r_35",
+            "pinky3.r_34",
+            "ring1_base.r_41",
+            "ring1.r_40",
+            "ring2.r_39",
+            "ring3.r_38",
+            "thumb1.r_44",
+            "thumb2.r_43",
+            "thumb3.r_42",
+            "shoulder.r.001_48",
+            "spine_02.x.001_52",
+            "spine_02.x.002_51",
+            "spine_02.x.003_50",
+            "thigh_stretch.l_58",
+            "leg_stretch.l_57",
+            "foot.l_56",
+            "toes_01.l_55",
+            "thigh_stretch.r_62",
+            "leg_stretch.r_61",
+            "foot.r_60",
+            "toes_01.r_59"
+          ]
+        }
+      ],
+      "animations": [],
+      "materials": [
+        "cloak_mat",
+        "hornet_mat",
+        "details_mat",
+        "details_mat.001",
+        "thread_mat"
+      ],
+      "external_uris": [],
+      "images": [
+        {
+          "name": "",
+          "mime": "image/jpeg",
+          "embedded": true
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true
+        },
+        {
+          "name": "",
+          "mime": "image/jpeg",
+          "embedded": true
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true
+        },
+        {
+          "name": "",
+          "mime": "image/jpeg",
+          "embedded": true
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true
+        }
+      ],
+      "container_valid": false,
+      "sha256": "d81028200e6ff17b803eef8ee2ef926aca817f88554d4bfbf8b22b69c523c401"
+    },
+    {
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (1)\\BOSS\\stelae_knight.glb",
+      "relative_path": "Sub Boss/SUB BOSS - Copy (1)/BOSS/stelae_knight.glb",
+      "role": "Sub-boss",
+      "bytes": 36121400,
+      "errors": [],
+      "version": 2,
+      "declared_bytes": 36121400,
+      "asset_metadata": {
+        "extras": {
+          "author": "Muru (https://sketchfab.com/muru)",
+          "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+          "source": "https://sketchfab.com/3d-models/stelae-knight-0a795ae613f2496e955974ca37bf1e94",
+          "title": "Stelae knight"
+        },
+        "generator": "Sketchfab-12.68.0",
+        "version": "2.0"
+      },
+      "extensions_required": [],
+      "meshes": 2,
+      "primitives": 2,
+      "triangles": 20060,
+      "vertices": 18353,
+      "skins": [
+        {
+          "name": "",
+          "joints": 2,
+          "bone_names": [
+            "_rootJoint",
+            "joint1_022"
+          ]
+        },
+        {
+          "name": "",
+          "joints": 23,
+          "bone_names": [
+            "_rootJoint",
+            "QuickRigCharacter_Hips_01",
+            "QuickRigCharacter_LeftUpLeg_02",
+            "QuickRigCharacter_LeftLeg_03",
+            "QuickRigCharacter_LeftFoot_04",
+            "QuickRigCharacter_LeftToeBase_05",
+            "QuickRigCharacter_RightUpLeg_06",
+            "QuickRigCharacter_RightLeg_07",
+            "QuickRigCharacter_RightFoot_08",
+            "QuickRigCharacter_RightToeBase_09",
+            "QuickRigCharacter_Spine_010",
+            "QuickRigCharacter_Spine1_011",
+            "QuickRigCharacter_Spine2_012",
+            "QuickRigCharacter_LeftShoulder_013",
+            "QuickRigCharacter_LeftArm_014",
+            "QuickRigCharacter_LeftForeArm_00",
+            "QuickRigCharacter_LeftHand_015",
+            "QuickRigCharacter_RightShoulder_016",
+            "QuickRigCharacter_RightArm_017",
+            "QuickRigCharacter_RightForeArm_018",
+            "QuickRigCharacter_RightHand_019",
+            "QuickRigCharacter_Neck_020",
+            "QuickRigCharacter_Head_021"
+          ]
+        }
+      ],
+      "animations": [
+        {
+          "name": "Take 001",
+          "channels": 119,
+          "duration_seconds": 3.0
+        }
+      ],
+      "materials": [
+        "lambert2",
+        "lambert1"
+      ],
+      "external_uris": [],
+      "images": [
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 4782605
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 5078312
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 6971929
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 3816556
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 5033755
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 8396978
+        }
+      ],
+      "container_valid": true,
+      "sha256": "6ca6c6d2eb619fe36fdc718c191ecbef10b42a9a72c3269bac6af51515e8bc61"
+    },
+    {
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (1)\\SLODIER\\skeleton_lord.glb",
+      "relative_path": "Sub Boss/SUB BOSS - Copy (1)/SLODIER/skeleton_lord.glb",
+      "role": "Sub-boss soldier",
+      "bytes": 30326724,
+      "errors": [],
+      "version": 2,
+      "declared_bytes": 30326724,
+      "asset_metadata": {
+        "extras": {
+          "author": "DJMaesen (https://sketchfab.com/bumstrum)",
+          "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+          "source": "https://sketchfab.com/3d-models/skeleton-lord-a3f7b44275cf4c489ad62c535268ac16",
+          "title": "Skeleton Lord"
+        },
+        "generator": "Sketchfab-12.66.0",
+        "version": "2.0"
+      },
+      "extensions_required": [],
+      "meshes": 5,
+      "primitives": 5,
+      "triangles": 8665,
+      "vertices": 5906,
+      "skins": [
+        {
+          "name": "",
+          "joints": 89,
+          "bone_names": [
+            "_rootJoint",
+            "hips_01",
+            "scabbard_02",
+            "Joint_1_03",
+            "L_backwardcloth_04",
+            "L_backwardcloth_2_05",
+            "L_backwardcloth_3_06",
+            "L_backwardcloth_4_07",
+            "R_backwardcloth_08",
+            "R_backwardcloth_2_09",
+            "R_backwardcloth_3_010",
+            "R_backwardcloth_4_011",
+            "backwardcloth_012",
+            "backwardcloth_2_013",
+            "backwardcloth_3_014",
+            "backwardcloth_4_015",
+            "L_Forwardcloth1_00",
+            "L_Forwardcloth2_016",
+            "L_Forwardcloth3_017",
+            "R_Forwardcloth1_018",
+            "R_Forwardcloth2_019",
+            "R_Forwardcloth3_020",
+            "forwardcloth1_021",
+            "forwardcloth2_022",
+            "forwardcloth3_023",
+            "R_leg_024",
+            "R_knee_025",
+            "R_ankle_026",
+            "R_foot_027",
+            "R_toes_028",
+            "L_leg_029",
+            "L_knee_030",
+            "L_ankle_031",
+            "L_foot_032",
+            "L_toes_033",
+            "spine_034",
+            "chest_035",
+            "L_shoulder_036",
+            "L_arm_037",
+            "L_elbow_038",
+            "L_wrist_039",
+            "L_thumb1_040",
+            "L_thumb2_041",
+            "L_thumb3_042",
+            "L_thumb4_043",
+            "L_point1_044",
+            "L_point2_045",
+            "L_point3_046",
+            "L_point4_047",
+            "L_middle1_048",
+            "L_middle2_049",
+            "L_middle3_050",
+            "L_middle4_051",
+            "L_ring1_052",
+            "L_ring2_053",
+            "L_ring3_054",
+            "L_ring4_055",
+            "L_pink1_056",
+            "L_pink2_057",
+            "L_pink3_058",
+            "L_pink4_059",
+            "R_shoulder_060",
+            "R_arm_061",
+            "R_elbow_062",
+            "R_wrist_063",
+            "R_thumb1_064",
+            "R_thumb2_065",
+            "R_thumb3_066",
+            "R_thumb4_067",
+            "R_point1_068",
+            "R_point2_069",
+            "R_point3_070",
+            "R_point4_071",
+            "R_middle1_072",
+            "R_middle2_073",
+            "R_middle3_074",
+            "R_middle4_075",
+            "R_ring1_076",
+            "R_ring2_077",
+            "R_ring3_078",
+            "R_ring4_079",
+            "R_pink1_080",
+            "R_pink2_081",
+            "R_pink3_082",
+            "R_pink4_083",
+            "neck_084",
+            "head_085",
+            "top_086",
+            "head_085_0"
+          ]
+        }
+      ],
+      "animations": [
+        {
+          "name": "tposeidlewalk",
+          "channels": 125,
+          "duration_seconds": 4.333333492279053
+        }
+      ],
+      "materials": [
+        "body",
+        "cloth",
+        "helmet",
+        "sword"
+      ],
+      "external_uris": [],
+      "images": [
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 5753834
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 3123099
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 5032045
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 601903
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 459848
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 681882
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 5323253
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 3303186
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 3595600
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 532960
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 503105
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 547663
+        }
+      ],
+      "container_valid": true,
+      "sha256": "587eed18d70d1d76116d15c7db85cdef038ff491e4a7d7e54b9c64e01adb2feb"
+    },
+    {
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (2)\\BOSS\\fallen_paladin_in_corrupted_black_plate_armor.glb",
+      "relative_path": "Sub Boss/SUB BOSS - Copy (2)/BOSS/fallen_paladin_in_corrupted_black_plate_armor.glb",
+      "role": "Sub-boss",
+      "bytes": 136363600,
+      "errors": [],
+      "version": 2,
+      "declared_bytes": 136363600,
+      "asset_metadata": {
+        "extras": {
+          "author": "Pigcraft (https://sketchfab.com/s8819296)",
+          "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+          "source": "https://sketchfab.com/3d-models/fallen-paladin-in-corrupted-black-plate-armor-df3056caff7e4f079bd4eec0fa9bcd54",
+          "title": "Fallen Paladin in Corrupted Black Plate Armor"
+        },
+        "generator": "Sketchfab-17.20.0",
+        "version": "2.0"
+      },
+      "extensions_required": [],
+      "meshes": 23,
+      "primitives": 23,
+      "triangles": 1992913,
+      "vertices": 1452699,
+      "skins": [],
+      "animations": [],
+      "materials": [
+        "tripo_mat_3786d797"
+      ],
+      "external_uris": [],
+      "images": [
+        {
+          "name": "",
+          "mime": "image/jpeg",
+          "embedded": true,
+          "bytes": 2933019
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4096,
+          "height": 4096,
+          "bytes": 12017172
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4096,
+          "height": 4096,
+          "bytes": 4490336
+        }
+      ],
+      "container_valid": true,
+      "sha256": "3ece873592061720cd28ad34b5b9308d5bbd7bc395ac455ae58dd120b557c1fe"
+    },
+    {
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (2)\\SLODIER\\corrupted_fallen_priest_-_dark_fantasy.glb",
+      "relative_path": "Sub Boss/SUB BOSS - Copy (2)/SLODIER/corrupted_fallen_priest_-_dark_fantasy.glb",
+      "role": "Sub-boss soldier",
+      "bytes": 138036032,
+      "errors": [],
+      "version": 2,
+      "declared_bytes": 138036032,
+      "asset_metadata": {
+        "extras": {
+          "author": "Pigcraft (https://sketchfab.com/s8819296)",
+          "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+          "source": "https://sketchfab.com/3d-models/corrupted-fallen-priest-dark-fantasy-1ab734d8c4464ae49d5b5091f3ea2afc",
+          "title": "Corrupted Fallen Priest - Dark Fantasy"
+        },
+        "generator": "Sketchfab-17.20.0",
+        "version": "2.0"
+      },
+      "extensions_required": [],
+      "meshes": 24,
+      "primitives": 24,
+      "triangles": 1942176,
+      "vertices": 1531934,
+      "skins": [],
+      "animations": [],
+      "materials": [
+        "tripo_mat_d03ec570"
+      ],
+      "external_uris": [],
+      "images": [
+        {
+          "name": "",
+          "mime": "image/jpeg",
+          "embedded": true,
+          "bytes": 2800733
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4096,
+          "height": 4096,
+          "bytes": 10219530
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4096,
+          "height": 4096,
+          "bytes": 3629150
+        }
+      ],
+      "container_valid": true,
+      "sha256": "159fa2a9706b0fbdb76e4f49fe73e27f70edd39f6ca79821b0f81a98f3e97af8"
+    },
+    {
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (3)\\BOSS\\demon_lord__ember-cracked_corrupted_armor.glb",
+      "relative_path": "Sub Boss/SUB BOSS - Copy (3)/BOSS/demon_lord__ember-cracked_corrupted_armor.glb",
+      "role": "Sub-boss",
+      "bytes": 127081864,
+      "errors": [],
+      "version": 2,
+      "declared_bytes": 127081864,
+      "asset_metadata": {
+        "extras": {
+          "author": "Pigcraft (https://sketchfab.com/s8819296)",
+          "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+          "source": "https://sketchfab.com/3d-models/demon-lord-ember-cracked-corrupted-armor-d85e2bf7adba4c69aa6c7eb24e3aa71a",
+          "title": "Demon Lord \u2013 Ember-Cracked Corrupted Armor"
+        },
+        "generator": "Sketchfab-17.20.0",
+        "version": "2.0"
+      },
+      "extensions_required": [],
+      "meshes": 21,
+      "primitives": 21,
+      "triangles": 1888595,
+      "vertices": 1341953,
+      "skins": [],
+      "animations": [],
+      "materials": [
+        "tripo_mat_f85f4f65"
+      ],
+      "external_uris": [],
+      "images": [
+        {
+          "name": "",
+          "mime": "image/jpeg",
+          "embedded": true,
+          "bytes": 2690906
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4096,
+          "height": 4096,
+          "bytes": 12009291
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4096,
+          "height": 4096,
+          "bytes": 3800767
+        }
+      ],
+      "container_valid": true,
+      "sha256": "8bff19a213fe0eff73f08ab10613a7a313ed75d59ee70c71a8c98c75bdb56302"
+    },
+    {
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (3)\\SLODIER\\blood_priest_in_crimson_ritual_robes.glb",
+      "relative_path": "Sub Boss/SUB BOSS - Copy (3)/SLODIER/blood_priest_in_crimson_ritual_robes.glb",
+      "role": "Sub-boss soldier",
+      "bytes": 129728224,
+      "errors": [],
+      "version": 2,
+      "declared_bytes": 129728224,
+      "asset_metadata": {
+        "extras": {
+          "author": "Pigcraft (https://sketchfab.com/s8819296)",
+          "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+          "source": "https://sketchfab.com/3d-models/blood-priest-in-crimson-ritual-robes-8055a4c59bf7451c8b95db8baab58909",
+          "title": "Blood Priest in Crimson Ritual Robes"
+        },
+        "generator": "Sketchfab-17.20.0",
+        "version": "2.0"
+      },
+      "extensions_required": [],
+      "meshes": 23,
+      "primitives": 23,
+      "triangles": 1889841,
+      "vertices": 1448075,
+      "skins": [],
+      "animations": [],
+      "materials": [
+        "tripo_mat_bf33b3b1"
+      ],
+      "external_uris": [],
+      "images": [
+        {
+          "name": "",
+          "mime": "image/jpeg",
+          "embedded": true,
+          "bytes": 2864519
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4096,
+          "height": 4096,
+          "bytes": 9257327
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4096,
+          "height": 4096,
+          "bytes": 2215920
+        }
+      ],
+      "container_valid": true,
+      "sha256": "322ea30422da997983ad591a8d55394dbec2d93f7935a343c10243fc7d064cc8"
+    },
+    {
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (4)\\BOSS\\dark_necromancer_-_corrupted_staff__skulls.glb",
+      "relative_path": "Sub Boss/SUB BOSS - Copy (4)/BOSS/dark_necromancer_-_corrupted_staff__skulls.glb",
+      "role": "Sub-boss",
+      "bytes": 124054224,
+      "errors": [],
+      "version": 2,
+      "declared_bytes": 124054224,
+      "asset_metadata": {
+        "extras": {
+          "author": "Pigcraft (https://sketchfab.com/s8819296)",
+          "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+          "source": "https://sketchfab.com/3d-models/dark-necromancer-corrupted-staff-skulls-10c3bef4113b4e128ad41c9fdcab74e3",
+          "title": "Dark Necromancer - Corrupted Staff & Skulls"
+        },
+        "generator": "Sketchfab-17.19.0",
+        "version": "2.0"
+      },
+      "extensions_required": [],
+      "meshes": 21,
+      "primitives": 21,
+      "triangles": 1893733,
+      "vertices": 1337416,
+      "skins": [],
+      "animations": [],
+      "materials": [
+        "tripo_mat_5e6cf8ad"
+      ],
+      "external_uris": [],
+      "images": [
+        {
+          "name": "",
+          "mime": "image/jpeg",
+          "embedded": true,
+          "bytes": 2760893
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4096,
+          "height": 4096,
+          "bytes": 10220644
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4096,
+          "height": 4096,
+          "bytes": 2720544
+        }
+      ],
+      "container_valid": true,
+      "sha256": "fe8d46dd6a3b606c191283bc479f25646636b3a9695dd23f3731f09a727e5f7e"
+    },
+    {
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (4)\\SLODIER\\ash-grey_cultist_-_ritual_mask__chains.glb",
+      "relative_path": "Sub Boss/SUB BOSS - Copy (4)/SLODIER/ash-grey_cultist_-_ritual_mask__chains.glb",
+      "role": "Sub-boss soldier",
+      "bytes": 138635756,
+      "errors": [],
+      "version": 2,
+      "declared_bytes": 138635756,
+      "asset_metadata": {
+        "extras": {
+          "author": "Pigcraft (https://sketchfab.com/s8819296)",
+          "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+          "source": "https://sketchfab.com/3d-models/ash-grey-cultist-ritual-mask-chains-ead4dc1528374115a9d392ee7c1ef63d",
+          "title": "Ash-Grey Cultist - Ritual Mask & Chains"
+        },
+        "generator": "Sketchfab-17.19.0",
+        "version": "2.0"
+      },
+      "extensions_required": [],
+      "meshes": 24,
+      "primitives": 24,
+      "triangles": 1975300,
+      "vertices": 1553193,
+      "skins": [],
+      "animations": [],
+      "materials": [
+        "tripo_mat_e1ec1b25"
+      ],
+      "external_uris": [],
+      "images": [
+        {
+          "name": "",
+          "mime": "image/jpeg",
+          "embedded": true,
+          "bytes": 2978025
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4096,
+          "height": 4096,
+          "bytes": 7883070
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4096,
+          "height": 4096,
+          "bytes": 4629713
+        }
+      ],
+      "container_valid": true,
+      "sha256": "6d243f199dbc4647ecd6783a1d42bc97be097ba2e6c271594b08bb16f227c679"
+    },
+    {
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (5)\\BOSS\\fearsome_dark_knight_armor.glb",
+      "relative_path": "Sub Boss/SUB BOSS - Copy (5)/BOSS/fearsome_dark_knight_armor.glb",
+      "role": "Sub-boss",
+      "bytes": 72566292,
+      "errors": [],
+      "version": 2,
+      "declared_bytes": 72566292,
+      "asset_metadata": {
+        "extras": {
+          "author": "Pigcraft (https://sketchfab.com/s8819296)",
+          "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+          "source": "https://sketchfab.com/3d-models/fearsome-dark-knight-armor-181df4a340b54a91b87ea01c79df12df",
+          "title": "Fearsome Dark Knight Armor"
+        },
+        "generator": "Sketchfab-17.8.0",
+        "version": "2.0"
+      },
+      "extensions_required": [],
+      "meshes": 22,
+      "primitives": 22,
+      "triangles": 1970730,
+      "vertices": 1420240,
+      "skins": [],
+      "animations": [],
+      "materials": [
+        "tripo_mat_bb7f7db5"
+      ],
+      "external_uris": [],
+      "images": [
+        {
+          "name": "",
+          "mime": "image/jpeg",
+          "embedded": true,
+          "bytes": 3448695
+        }
+      ],
+      "container_valid": true,
+      "sha256": "44921ad03f49ebe81df0db291f81f027391b5547a329c5b12325b21266bb08bb"
+    },
+    {
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (5)\\SLODIER\\corrupted_monk_-_ash-grey_ritual_robes.glb",
+      "relative_path": "Sub Boss/SUB BOSS - Copy (5)/SLODIER/corrupted_monk_-_ash-grey_ritual_robes.glb",
+      "role": "Sub-boss soldier",
+      "bytes": 128872868,
+      "errors": [],
+      "version": 2,
+      "declared_bytes": 128872868,
+      "asset_metadata": {
+        "extras": {
+          "author": "Pigcraft (https://sketchfab.com/s8819296)",
+          "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+          "source": "https://sketchfab.com/3d-models/corrupted-monk-ash-grey-ritual-robes-b45845141ed74a0abc191ac528e3e869",
+          "title": "Corrupted Monk - Ash-Grey Ritual Robes"
+        },
+        "generator": "Sketchfab-17.20.0",
+        "version": "2.0"
+      },
+      "extensions_required": [],
+      "meshes": 22,
+      "primitives": 22,
+      "triangles": 1927502,
+      "vertices": 1429539,
+      "skins": [],
+      "animations": [],
+      "materials": [
+        "tripo_mat_2195e8cd"
+      ],
+      "external_uris": [],
+      "images": [
+        {
+          "name": "",
+          "mime": "image/jpeg",
+          "embedded": true,
+          "bytes": 3279933
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4096,
+          "height": 4096,
+          "bytes": 5459793
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4096,
+          "height": 4096,
+          "bytes": 5478551
+        }
+      ],
+      "container_valid": true,
+      "sha256": "5159a51f3f14e9c944bf757a4fb33e30e06cafba7a259e1d98661585b27b7654"
+    },
+    {
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (6)\\BOSS\\executioner_warrior_-_hooded_axe__armor.glb",
+      "relative_path": "Sub Boss/SUB BOSS - Copy (6)/BOSS/executioner_warrior_-_hooded_axe__armor.glb",
+      "role": "Sub-boss",
+      "bytes": 130193452,
+      "errors": [],
+      "version": 2,
+      "declared_bytes": 130193452,
+      "asset_metadata": {
+        "extras": {
+          "author": "Pigcraft (https://sketchfab.com/s8819296)",
+          "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+          "source": "https://sketchfab.com/3d-models/executioner-warrior-hooded-axe-armor-9924a0f56d164b29abf0c3bf0b2b2333",
+          "title": "Executioner Warrior - Hooded Axe & Armor"
+        },
+        "generator": "Sketchfab-17.19.0",
+        "version": "2.0"
+      },
+      "extensions_required": [],
+      "meshes": 21,
+      "primitives": 21,
+      "triangles": 1895294,
+      "vertices": 1339762,
+      "skins": [],
+      "animations": [],
+      "materials": [
+        "tripo_mat_befa5c31"
+      ],
+      "external_uris": [],
+      "images": [
+        {
+          "name": "",
+          "mime": "image/jpeg",
+          "embedded": true,
+          "bytes": 3393966
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4096,
+          "height": 4096,
+          "bytes": 11480212
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4096,
+          "height": 4096,
+          "bytes": 6798143
+        }
+      ],
+      "container_valid": true,
+      "sha256": "f4eba5d0e579aa28a0ca4f02b99cf44af687284c6626d4268be8a400fc852620"
+    },
+    {
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (6)\\SLODIER\\shadow_monk_assassin_-_dark_fantasy.glb",
+      "relative_path": "Sub Boss/SUB BOSS - Copy (6)/SLODIER/shadow_monk_assassin_-_dark_fantasy.glb",
+      "role": "Sub-boss soldier",
+      "bytes": 124016196,
+      "errors": [],
+      "version": 2,
+      "declared_bytes": 124016196,
+      "asset_metadata": {
+        "extras": {
+          "author": "Pigcraft (https://sketchfab.com/s8819296)",
+          "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+          "source": "https://sketchfab.com/3d-models/shadow-monk-assassin-dark-fantasy-317f8ab8cf7041c1abb070d603c041ab",
+          "title": "Shadow Monk Assassin - Dark Fantasy"
+        },
+        "generator": "Sketchfab-0.3.0",
+        "version": "2.0"
+      },
+      "extensions_required": [],
+      "meshes": 22,
+      "primitives": 22,
+      "triangles": 1881200,
+      "vertices": 1403098,
+      "skins": [],
+      "animations": [],
+      "materials": [
+        "tripo_mat_20131e5b"
+      ],
+      "external_uris": [],
+      "images": [
+        {
+          "name": "",
+          "mime": "image/jpeg",
+          "embedded": true,
+          "bytes": 2407142
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4096,
+          "height": 4096,
+          "bytes": 6249465
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4096,
+          "height": 4096,
+          "bytes": 2952670
+        }
+      ],
+      "container_valid": true,
+      "sha256": "e546d786210bee1923cbe695b6bf5a78049056ca22aac75dcb58e70a23206c1d"
+    },
+    {
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (7)\\BOSS\\npc_knight_-_doom__the_dark_ages_-_rigged.glb",
+      "relative_path": "Sub Boss/SUB BOSS - Copy (7)/BOSS/npc_knight_-_doom__the_dark_ages_-_rigged.glb",
+      "role": "Sub-boss",
+      "bytes": 125417188,
+      "errors": [],
+      "version": 2,
+      "declared_bytes": 125417188,
+      "asset_metadata": {
+        "extras": {
+          "author": "wrimpr (https://sketchfab.com/wrimpr)",
+          "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+          "source": "https://sketchfab.com/3d-models/npc-knight-doom-the-dark-ages-rigged-9ed6c61852a8417b8490105d0a50ba58",
+          "title": "NPC Knight - DOOM : The Dark Ages - Rigged"
+        },
+        "generator": "Sketchfab-0.6.0",
+        "version": "2.0"
+      },
+      "extensions_required": [],
+      "meshes": 23,
+      "primitives": 23,
+      "triangles": 127594,
+      "vertices": 114575,
+      "skins": [
+        {
+          "name": "",
+          "joints": 142,
+          "bone_names": [
+            "_rootJoint",
+            "npc_soldier_knight:origin_02",
+            "npc_soldier_knight:hips_part01_md_03",
+            "npc_soldier_knight:leg_upper_rt_05",
+            "npc_soldier_knight:leg_lower_rt_04",
+            "npc_soldier_knight:leg_foot_rt_06",
+            "npc_soldier_knight:leg_ball_rt_07",
+            "npc_soldier_knight:leg_toe_rt_08",
+            "npc_soldier_knight:leg_rolllowerpin1_rt_09",
+            "npc_soldier_knight:leg_rolllowerpin2_rt_010",
+            "npc_soldier_knight:leg_rollupperpin1_rt_011",
+            "npc_soldier_knight:leg_rollupperpin2_rt_012",
+            "npc_soldier_knight:leg_upper_lf_013",
+            "npc_soldier_knight:leg_lower_lf_014",
+            "npc_soldier_knight:leg_foot_lf_015",
+            "npc_soldier_knight:leg_ball_lf_016",
+            "npc_soldier_knight:leg_toe_lf_017",
+            "npc_soldier_knight:leg_rolllowerpin1_lf_018",
+            "npc_soldier_knight:leg_rolllowerpin2_lf_019",
+            "npc_soldier_knight:leg_rollupperpin1_lf_020",
+            "npc_soldier_knight:leg_rollupperpin2_lf_021",
+            "npc_soldier_knight:spine_part01_md_023",
+            "npc_soldier_knight:spine_part02_md_022",
+            "npc_soldier_knight:spine_part03_md_025",
+            "npc_soldier_knight:spine_part04_md_024",
+            "npc_soldier_knight:spine_part05_md_026",
+            "npc_soldier_knight:arm_clavicle_rt_027",
+            "npc_soldier_knight:arm_upper_rt_028",
+            "npc_soldier_knight:arm_lower_rt_029",
+            "npc_soldier_knight:arm_hand_rt_030",
+            "npc_soldier_knight:arm_end_rt_031",
+            "npc_soldier_knight:weapon_part01_rt_032",
+            "npc_soldier_knight:thumb_part01_rt_033",
+            "npc_soldier_knight:thumb_part02_rt_034",
+            "npc_soldier_knight:thumb_part03_rt_035",
+            "npc_soldier_knight:index_part01_rt_036",
+            "npc_soldier_knight:index_part02_rt_037",
+            "npc_soldier_knight:index_part03_rt_038",
+            "npc_soldier_knight:index_part04_rt_039",
+            "npc_soldier_knight:ring_part01_rt_040",
+            "npc_soldier_knight:ring_part02_rt_041",
+            "npc_soldier_knight:ring_part03_rt_042",
+            "npc_soldier_knight:ring_part04_rt_043",
+            "npc_soldier_knight:pinky_part01_rt_044",
+            "npc_soldier_knight:pinky_part02_rt_045",
+            "npc_soldier_knight:pinky_part03_rt_046",
+            "npc_soldier_knight:pinky_part04_rt_047",
+            "npc_soldier_knight:middle_part01_rt_048",
+            "npc_soldier_knight:middle_part02_rt_049",
+            "npc_soldier_knight:middle_part03_rt_050",
+            "npc_soldier_knight:middle_part04_rt_051",
+            "npc_soldier_knight:arm_rolllowerpin1_rt_052",
+            "npc_soldier_knight:arm_rolllowerpin2_rt_053",
+            "npc_soldier_knight:arm_rollupperpin1_rt_054",
+            "npc_soldier_knight:arm_rollupperpin2_rt_055",
+            "npc_soldier_knight:neck_part01_md_057",
+            "npc_soldier_knight:neck_part02_md_056",
+            "npc_soldier_knight:neck_part03_md_058",
+            "npc_soldier_knight:head_part01_md_059",
+            "npc_soldier_knight:jaw_part01_md_060",
+            "npc_soldier_knight:tongue_part01_md_061",
+            "npc_soldier_knight:tongue_part02_md_062",
+            "npc_soldier_knight:tongue_part03_md_063",
+            "npc_soldier_knight:tongue_part04_md_064",
+            "npc_soldier_knight:lips_part05_rt_065",
+            "npc_soldier_knight:lips_part04_lf_066",
+            "npc_soldier_knight:lips_part05_lf_067",
+            "npc_soldier_knight:lips_part04_rt_068",
+            "npc_soldier_knight:lips_part02_md_069",
+            "npc_soldier_knight:teeth_part02_md_070",
+            "npc_soldier_knight:eye_result_rt_071",
+            "npc_soldier_knight:eye_result_lf_072",
+            "npc_soldier_knight:teeth_part01_md_073",
+            "npc_soldier_knight:crease_part01_lf_074",
+            "npc_soldier_knight:brow_part02_lf_075",
+            "npc_soldier_knight:brow_part01_lf_076",
+            "npc_soldier_knight:brow_part03_lf_077",
+            "npc_soldier_knight:lips_part02_rt_078",
+            "npc_soldier_knight:lips_part01_rt_079",
+            "npc_soldier_knight:lips_part03_rt_080",
+            "npc_soldier_knight:lips_part02_lf_081",
+            "npc_soldier_knight:lips_part01_lf_082",
+            "npc_soldier_knight:lips_part03_lf_083",
+            "npc_soldier_knight:cheek_part02_lf_084",
+            "npc_soldier_knight:cheek_part01_lf_085",
+            "npc_soldier_knight:cheek_part03_lf_086",
+            "npc_soldier_knight:lips_part01_md_087",
+            "npc_soldier_knight:crease_part01_rt_088",
+            "npc_soldier_knight:brow_part02_rt_089",
+            "npc_soldier_knight:brow_part01_rt_00",
+            "npc_soldier_knight:brow_part03_rt_090",
+            "npc_soldier_knight:snarl_part01_lf_091",
+            "npc_soldier_knight:nostril_part01_rt_092",
+            "npc_soldier_knight:ear_part01_lf_093",
+            "npc_soldier_knight:cheek_part02_rt_094",
+            "npc_soldier_knight:cheek_part01_rt_095",
+            "npc_soldier_knight:cheek_part03_rt_096",
+            "npc_soldier_knight:snarl_part01_rt_097",
+            "npc_soldier_knight:brow_part01_md_098",
+            "npc_soldier_knight:nostril_part01_lf_099",
+            "npc_soldier_knight:puff_part01_lf_0100",
+            "npc_soldier_knight:puff_part01_rt_0101",
+            "npc_soldier_knight:ear_part01_rt_0102",
+            "npc_soldier_knight:nose_part01_md_0103",
+            "npc_soldier_knight:eyelid_tpattach1_lf_0104",
+            "npc_soldier_knight:eyelid_tpattach2_lf_0105",
+            "npc_soldier_knight:eyelid_tpattach3_lf_0106",
+            "npc_soldier_knight:eyelid_bdattach1_lf_0107",
+            "npc_soldier_knight:eyelid_bdattach1_rt_0108",
+            "npc_soldier_knight:eyelid_tpattach1_rt_0109",
+            "npc_soldier_knight:eyelid_tpattach2_rt_0110",
+            "npc_soldier_knight:eyelid_tpattach3_rt_01",
+            "npc_soldier_knight:arm_clavicle_lf_0111",
+            "npc_soldier_knight:arm_upper_lf_0112",
+            "npc_soldier_knight:arm_lower_lf_0113",
+            "npc_soldier_knight:arm_hand_lf_0114",
+            "npc_soldier_knight:arm_end_lf_0115",
+            "npc_soldier_knight:weapon_part01_lf_0116",
+            "npc_soldier_knight:pinky_part01_lf_0117",
+            "npc_soldier_knight:pinky_part02_lf_0118",
+            "npc_soldier_knight:pinky_part03_lf_0119",
+            "npc_soldier_knight:pinky_part04_lf_0120",
+            "npc_soldier_knight:thumb_part01_lf_0121",
+            "npc_soldier_knight:thumb_part02_lf_0122",
+            "npc_soldier_knight:thumb_part03_lf_0123",
+            "npc_soldier_knight:middle_part01_lf_0124",
+            "npc_soldier_knight:middle_part02_lf_0125",
+            "npc_soldier_knight:middle_part03_lf_0126",
+            "npc_soldier_knight:middle_part04_lf_0127",
+            "npc_soldier_knight:ring_part01_lf_0128",
+            "npc_soldier_knight:ring_part02_lf_0129",
+            "npc_soldier_knight:ring_part03_lf_0130",
+            "npc_soldier_knight:ring_part04_lf_0131",
+            "npc_soldier_knight:index_part01_lf_0132",
+            "npc_soldier_knight:index_part02_lf_0133",
+            "npc_soldier_knight:index_part03_lf_0134",
+            "npc_soldier_knight:index_part04_lf_0135",
+            "npc_soldier_knight:arm_rolllowerpin1_lf_0136",
+            "npc_soldier_knight:arm_rolllowerpin2_lf_0137",
+            "npc_soldier_knight:arm_rollupperpin1_lf_0138",
+            "npc_soldier_knight:arm_rollupperpin2_lf_0139",
+            "npc_soldier_knight:baseweapon_com_md_0140"
+          ]
+        }
+      ],
+      "animations": [],
+      "materials": [
+        "npc_soldier_knightmodels_characters_sentinel_knight_1002_sentinel_knight_a_1002",
+        "npc_soldier_knightmodels_characters_sentinel_knight_1006_sentinel_knight_a_1006",
+        "npc_soldier_knightmodels_characters_sentinel_knight_1011_sentinel_knight_b_1011",
+        "npc_soldier_knightmodels_characters_sentinel_knight_1012_sentinel_knight_b_1012",
+        "npc_soldier_knightmodels_characters_sentinel_knight_1004_sentinel_knight_a_1004",
+        "npc_soldier_knightmodels_characters_sentinel_knight_1003_sentinel_knight_a_1003",
+        "npc_soldier_knightmodels_characters_sentinel_knight_1007_sentinel_knight_a_1007",
+        "npc_soldier_knightmodels_characters_sentinel_knight_1001_sentinel_knight_face_01_1001",
+        "npc_soldier_knightmodels_characters_sentinel_knight_1001_sentinel_knight_a_1001",
+        "npc_soldier_knightmodels_characters_sentinel_knight_1005_sentinel_knight_a_1005",
+        "npc_soldier_knightmodels_characters_sentinel_knight_1002_sentinel_knight_skin_1002",
+        "npc_soldier_knightmodels_characters_sentinel_knight_1003_sentinel_knight_skin_1003",
+        "npc_soldier_knightart_characters_library_commons_eyes_human_eye_occlusion",
+        "npc_soldier_knightart_characters_library_commons_inherited_material_human_eye_brown",
+        "npc_soldier_knightart_characters_library_commons_inherited_material_human_teeth_tongue_a",
+        "npc_soldier_knightmodels_characters_sentinel_knight_1017_sentinel_knight_b_1017",
+        "npc_soldier_knightmodels_characters_sentinel_knight_1015_sentinel_knight_b_1015",
+        "npc_soldier_knightmodels_characters_sentinel_knight_1014_sentinel_knight_b_1014",
+        "npc_soldier_knightmodels_characters_sentinel_knight_1013_sentinel_knight_b_1013",
+        "npc_soldier_knightmodels_characters_sentinel_knight_1016_sentinel_knight_b_1016",
+        "npc_soldier_knightmodels_characters_sentinel_knight_1013_sentinel_knight_b_1013_0",
+        "npc_soldier_knightmodels_characters_sentinel_knight_1014_sentinel_knight_b_1014_0",
+        "npc_soldier_knightart_objects_sentinel_guard_rifle_sentinelrifle_a"
+      ],
+      "external_uris": [],
+      "images": [
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 5140983
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 4789688
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 27457
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 6742049
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 1573118
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1115702
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1255573
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4,
+          "height": 4,
+          "bytes": 68
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1467874
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 218478
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 935218
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1373353
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4,
+          "height": 4,
+          "bytes": 68
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1791819
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 444232
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 816510
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1223777
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4,
+          "height": 4,
+          "bytes": 68
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1567678
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 401642
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 512,
+          "height": 512,
+          "bytes": 285658
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 512,
+          "height": 512,
+          "bytes": 363965
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4,
+          "height": 4,
+          "bytes": 68
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 512,
+          "height": 512,
+          "bytes": 440828
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 512,
+          "height": 512,
+          "bytes": 92765
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 976134
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1220896
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 7557
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1516205
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 424461
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1100149
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1279213
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4,
+          "height": 4,
+          "bytes": 68
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1553527
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 450946
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4096,
+          "height": 4096,
+          "bytes": 16953803
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 4507496
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 7825616
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4,
+          "height": 4,
+          "bytes": 78
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1136992
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1203314
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4,
+          "height": 4,
+          "bytes": 68
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1477838
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 496063
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1065276
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1240819
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4,
+          "height": 4,
+          "bytes": 68
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1432136
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 309184
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 992147
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 1098449
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 1317178
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4,
+          "height": 4,
+          "bytes": 78
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 1006830
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 128,
+          "height": 128,
+          "bytes": 5354
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 763049
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 91443
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 918228
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 512,
+          "height": 512,
+          "bytes": 156695
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 512,
+          "height": 512,
+          "bytes": 181496
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1255416
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 947953
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1330649
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4,
+          "height": 4,
+          "bytes": 68
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1738839
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 458552
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 884902
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1313458
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4,
+          "height": 4,
+          "bytes": 68
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1630886
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 460136
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 512,
+          "height": 512,
+          "bytes": 266541
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 512,
+          "height": 512,
+          "bytes": 327978
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4,
+          "height": 4,
+          "bytes": 68
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 512,
+          "height": 512,
+          "bytes": 374134
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 512,
+          "height": 512,
+          "bytes": 74518
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 948593
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1240586
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4,
+          "height": 4,
+          "bytes": 68
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1334065
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 483195
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1028784
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1213271
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4,
+          "height": 4,
+          "bytes": 68
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1439157
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 1024,
+          "height": 1024,
+          "bytes": 291010
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 3797340
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 1942389
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 4403454
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 1501966
+        }
+      ],
+      "container_valid": true,
+      "sha256": "71288cd7c28204fc8fac8e6b5820f799a698396b6e7a465f2ab562e97c78b034"
+    },
+    {
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (7)\\SLODIER\\plague_assassin_-_dark_fantasy_character.glb",
+      "relative_path": "Sub Boss/SUB BOSS - Copy (7)/SLODIER/plague_assassin_-_dark_fantasy_character.glb",
+      "role": "Sub-boss soldier",
+      "bytes": 124118220,
+      "errors": [],
+      "version": 2,
+      "declared_bytes": 124118220,
+      "asset_metadata": {
+        "extras": {
+          "author": "Pigcraft (https://sketchfab.com/s8819296)",
+          "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+          "source": "https://sketchfab.com/3d-models/plague-assassin-dark-fantasy-character-e8b104a0f1504f9d8fb5d8374e964400",
+          "title": "Plague Assassin - Dark Fantasy Character"
+        },
+        "generator": "Sketchfab-0.3.0",
+        "version": "2.0"
+      },
+      "extensions_required": [],
+      "meshes": 22,
+      "primitives": 22,
+      "triangles": 1908063,
+      "vertices": 1386007,
+      "skins": [],
+      "animations": [],
+      "materials": [
+        "tripo_mat_c893cc8e"
+      ],
+      "external_uris": [],
+      "images": [
+        {
+          "name": "",
+          "mime": "image/jpeg",
+          "embedded": true,
+          "bytes": 2576221
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4096,
+          "height": 4096,
+          "bytes": 5630166
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4096,
+          "height": 4096,
+          "bytes": 4276466
+        }
+      ],
+      "container_valid": true,
+      "sha256": "bb050acdf8f6a7e04d5d33bd4d97e1fe8201931194f7cef62542c0dbf8f9a429"
+    },
+    {
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (8)\\BOSS\\dark_spiked_gothic_knight_with_broken_sword.glb",
+      "relative_path": "Sub Boss/SUB BOSS - Copy (8)/BOSS/dark_spiked_gothic_knight_with_broken_sword.glb",
+      "role": "Sub-boss",
+      "bytes": 62425776,
+      "errors": [],
+      "version": 2,
+      "declared_bytes": 62425776,
+      "asset_metadata": {
+        "extras": {
+          "author": "Pigcraft (https://sketchfab.com/s8819296)",
+          "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+          "source": "https://sketchfab.com/3d-models/dark-spiked-gothic-knight-with-broken-sword-f3a1b95ea444409ebd0de017bceeb06b",
+          "title": "Dark Spiked Gothic Knight with Broken Sword"
+        },
+        "generator": "Sketchfab-16.85.0",
+        "version": "2.0"
+      },
+      "extensions_required": [],
+      "meshes": 11,
+      "primitives": 11,
+      "triangles": 1000071,
+      "vertices": 696582,
+      "skins": [],
+      "animations": [],
+      "materials": [
+        "tripo_mat_e8ff95ee"
+      ],
+      "external_uris": [],
+      "images": [
+        {
+          "name": "",
+          "mime": "image/jpeg",
+          "embedded": true,
+          "bytes": 924961
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 3350050
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 2048,
+          "height": 2048,
+          "bytes": 1550414
+        }
+      ],
+      "container_valid": true,
+      "sha256": "82683718edf03c0a9043534aeb06e36d8c8d837741aca4aa0082197fbd364b18"
+    },
+    {
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (8)\\SLODIER\\desert_nomad_assassin_-_dark_fantasy.glb",
+      "relative_path": "Sub Boss/SUB BOSS - Copy (8)/SLODIER/desert_nomad_assassin_-_dark_fantasy.glb",
+      "role": "Sub-boss soldier",
+      "bytes": 132477508,
+      "errors": [],
+      "version": 2,
+      "declared_bytes": 132477508,
+      "asset_metadata": {
+        "extras": {
+          "author": "Pigcraft (https://sketchfab.com/s8819296)",
+          "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+          "source": "https://sketchfab.com/3d-models/desert-nomad-assassin-dark-fantasy-f9a2715ce7d247f090475013e8836132",
+          "title": "Desert Nomad Assassin - Dark Fantasy"
+        },
+        "generator": "Sketchfab-0.3.0",
+        "version": "2.0"
+      },
+      "extensions_required": [],
+      "meshes": 22,
+      "primitives": 22,
+      "triangles": 1955547,
+      "vertices": 1430369,
+      "skins": [],
+      "animations": [],
+      "materials": [
+        "tripo_mat_adf7e80f"
+      ],
+      "external_uris": [],
+      "images": [
+        {
+          "name": "",
+          "mime": "image/jpeg",
+          "embedded": true,
+          "bytes": 4166560
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4096,
+          "height": 4096,
+          "bytes": 5782593
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4096,
+          "height": 4096,
+          "bytes": 7483861
+        }
+      ],
+      "container_valid": true,
+      "sha256": "f3b53e34950958c1da9f29663f8ac901a7a92d28b2ecf271c12519420a9bcc3d"
+    },
+    {
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (9)\\BOSS\\corrupted_archangel_six_wings_boss.glb",
+      "relative_path": "Sub Boss/SUB BOSS - Copy (9)/BOSS/corrupted_archangel_six_wings_boss.glb",
+      "role": "Sub-boss",
+      "bytes": 130758248,
+      "errors": [],
+      "version": 2,
+      "declared_bytes": 130758248,
+      "asset_metadata": {
+        "extras": {
+          "author": "Pigcraft (https://sketchfab.com/s8819296)",
+          "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+          "source": "https://sketchfab.com/3d-models/corrupted-archangel-six-wings-boss-139d6f0185684ab9ae12fed7530c0696",
+          "title": "Corrupted Archangel Six Wings Boss"
+        },
+        "generator": "Sketchfab-0.5.0",
+        "version": "2.0"
+      },
+      "extensions_required": [],
+      "meshes": 21,
+      "primitives": 21,
+      "triangles": 1963878,
+      "vertices": 1324466,
+      "skins": [],
+      "animations": [],
+      "materials": [
+        "tripo_mat_ca66fc79"
+      ],
+      "external_uris": [],
+      "images": [
+        {
+          "name": "",
+          "mime": "image/jpeg",
+          "embedded": true,
+          "bytes": 4308087
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4096,
+          "height": 4096,
+          "bytes": 11017362
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4096,
+          "height": 4096,
+          "bytes": 7068028
+        }
+      ],
+      "container_valid": true,
+      "sha256": "0ffdf544349709f45df7604849e578f43c5a28650d3e917e6b3154b16d2e5559"
+    },
+    {
+      "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (9)\\SLODIER\\executioner_angel_chained_wings_axe.glb",
+      "relative_path": "Sub Boss/SUB BOSS - Copy (9)/SLODIER/executioner_angel_chained_wings_axe.glb",
+      "role": "Sub-boss soldier",
+      "bytes": 133775100,
+      "errors": [],
+      "version": 2,
+      "declared_bytes": 133775100,
+      "asset_metadata": {
+        "extras": {
+          "author": "Pigcraft (https://sketchfab.com/s8819296)",
+          "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+          "source": "https://sketchfab.com/3d-models/executioner-angel-chained-wings-axe-5ae2fd3ee5cd4f309d0285a4736900f8",
+          "title": "Executioner Angel Chained Wings Axe"
+        },
+        "generator": "Sketchfab-0.5.0",
+        "version": "2.0"
+      },
+      "extensions_required": [],
+      "meshes": 21,
+      "primitives": 21,
+      "triangles": 1958632,
+      "vertices": 1375817,
+      "skins": [],
+      "animations": [],
+      "materials": [
+        "tripo_mat_dce32d49"
+      ],
+      "external_uris": [],
+      "images": [
+        {
+          "name": "",
+          "mime": "image/jpeg",
+          "embedded": true,
+          "bytes": 3850529
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4096,
+          "height": 4096,
+          "bytes": 11894971
+        },
+        {
+          "name": "",
+          "mime": "image/png",
+          "embedded": true,
+          "width": 4096,
+          "height": 4096,
+          "bytes": 6441096
+        }
+      ],
+      "container_valid": true,
+      "sha256": "85bfceba2ae07e020b4c6bca1f751ca2df2102ad37e03ecf8c921bdd75a1fd18"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "soldier_9",
+  "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (9)\\SLODIER\\executioner_angel_chained_wings_axe.glb",
+  "derived": "assets\\provided\\soldier_9.glb",
+  "source_triangles": 1958632,
+  "runtime_triangles": 28000,
+  "rigged": false,
+  "texture_limit": 1024,
+  "seconds": 50.49,
+  "attribution": {
+    "author": "Pigcraft (https://sketchfab.com/s8819296)",
+    "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "source": "https://sketchfab.com/3d-models/executioner-angel-chained-wings-axe-5ae2fd3ee5cd4f309d0285a4736900f8",
+    "title": "Executioner Angel Chained Wings Axe"
+  }
+}

@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://46p77scoihix"]
+
+[ext_resource type="Script" uid="uid://d0rub5sbe5ipo" path="res://player.gd" id="1"]
+
+[node name="Player" type="CharacterBody3D" unique_id=1095190501]
+script = ExtResource("1")

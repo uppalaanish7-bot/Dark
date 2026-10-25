@@ -1,0 +1,5 @@
+samples=300
+average_fps=60.15
+minimum_instant_fps=48.04
+max_frame_ms=20.82
+render_fps_cap=0

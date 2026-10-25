@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://qdqpeud2f348"]
+
+[ext_resource type="Script" uid="uid://bgjewfaet2viy" path="res://scripts/game.gd" id="1"]
+
+[node name="RelicArena" type="Node3D" unique_id=1468965212]
+script = ExtResource("1")

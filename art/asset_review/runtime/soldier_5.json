@@ -1,0 +1,16 @@
+{
+  "id": "soldier_5",
+  "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (5)\\SLODIER\\corrupted_monk_-_ash-grey_ritual_robes.glb",
+  "derived": "assets\\provided\\soldier_5.glb",
+  "source_triangles": 1927502,
+  "runtime_triangles": 27999,
+  "rigged": false,
+  "texture_limit": 1024,
+  "seconds": 61.23,
+  "attribution": {
+    "author": "Pigcraft (https://sketchfab.com/s8819296)",
+    "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "source": "https://sketchfab.com/3d-models/corrupted-monk-ash-grey-ritual-robes-b45845141ed74a0abc191ac528e3e869",
+    "title": "Corrupted Monk - Ash-Grey Ritual Robes"
+  }
+}

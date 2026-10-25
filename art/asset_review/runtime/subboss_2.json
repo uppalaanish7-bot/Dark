@@ -1,0 +1,16 @@
+{
+  "id": "subboss_2",
+  "source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (2)\\BOSS\\fallen_paladin_in_corrupted_black_plate_armor.glb",
+  "derived": "assets\\provided\\subboss_2.glb",
+  "source_triangles": 1992913,
+  "runtime_triangles": 64999,
+  "rigged": false,
+  "texture_limit": 2048,
+  "seconds": 58.85,
+  "attribution": {
+    "author": "Pigcraft (https://sketchfab.com/s8819296)",
+    "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "source": "https://sketchfab.com/3d-models/fallen-paladin-in-corrupted-black-plate-armor-df3056caff7e4f079bd4eec0fa9bcd54",
+    "title": "Fallen Paladin in Corrupted Black Plate Armor"
+  }
+}

@@ -1,0 +1,37 @@
+{
+	"actors": [
+		{
+			"combo_tip_separation_m": [
+				2.95896911621094,
+				2.30997705459595,
+				1.95429122447968
+			],
+			"guard_pelvis_delta": "(0.0, 0.0, 0.0)",
+			"id": "female",
+			"max_grip_drift_m": 0.000000119209289550781,
+			"rest_floor_m": -0.000000396108163158715,
+			"rest_height_m": 1.8199725151062
+		},
+		{
+			"combo_tip_separation_m": [
+				2.88946914672852,
+				2.16231822967529,
+				1.89868772029877
+			],
+			"guard_pelvis_delta": "(-0.0, -0.0, 0.0)",
+			"id": "omega",
+			"max_grip_drift_m": 0.000000119209289550781,
+			"rest_floor_m": 0.00000000468571670353413,
+			"rest_height_m": 1.81999886035919
+		},
+		{
+			"combo_tip_separation_m": [],
+			"guard_pelvis_delta": "(-0.013038, -0.200347, 0.0)",
+			"id": "subboss_1",
+			"max_grip_drift_m": 0.0000000971555709772254,
+			"rest_floor_m": 0.0,
+			"rest_height_m": 2.10000038146973
+		}
+	],
+	"failures": []
+}

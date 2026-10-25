@@ -1,0 +1,19 @@
+{
+	"actors": [
+		{
+			"id": "female",
+			"r_gather_tip_height_m": 3.02915668487549,
+			"r_release_downward_component": -0.477521628141403,
+			"r_release_tip_height_m": 0.578732788562775,
+			"rmb_worst_alignment_dot": 0.9999920129776
+		},
+		{
+			"id": "omega",
+			"r_gather_tip_height_m": 2.93407154083252,
+			"r_release_downward_component": -0.473535984754562,
+			"r_release_tip_height_m": 0.540940463542938,
+			"rmb_worst_alignment_dot": 0.999989867210388
+		}
+	],
+	"failures": []
+}

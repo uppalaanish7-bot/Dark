@@ -1,0 +1,16 @@
+# Godot editor cache and generated scripts
+/.godot/
+*.gdc
+*.gdc.uid
+
+# Temporary reports and operating-system files
+*.tmp
+*.log
+*.swp
+*.bak
+Thumbs.db
+.DS_Store
+
+# Local snapshots and rebuilt packages
+/backups/
+/build/

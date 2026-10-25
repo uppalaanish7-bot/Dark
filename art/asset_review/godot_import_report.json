@@ -1,0 +1,209 @@
+{
+	"assets": [
+		{
+			"animation_names": [],
+			"bounds_min": [
+				-0.155502319335938,
+				-0.499481201171875,
+				-0.495025664567947
+			],
+			"dimensions": [
+				0.373519897460938,
+				0.99932861328125,
+				0.983490109443665
+			],
+			"import_error": 0,
+			"imported": true,
+			"material_surfaces": 13,
+			"mesh_instances": 13,
+			"relative_path": "Boss/grim_reaper_dark_knight_warrior.glb",
+			"skeletons": [],
+			"source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Boss\\grim_reaper_dark_knight_warrior.glb"
+		},
+		{
+			"animation_names": [],
+			"bounds_min": [
+				-0.721633970737457,
+				-0.950378179550171,
+				-0.411700129508972
+			],
+			"dimensions": [
+				1.43964099884033,
+				1.8987842798233,
+				0.821615159511566
+			],
+			"import_error": 0,
+			"imported": true,
+			"material_surfaces": 10,
+			"mesh_instances": 10,
+			"relative_path": "Boss Sub Guard/Guard solider/obsidian_warden_shadow_hunter.glb",
+			"skeletons": [],
+			"source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Boss Sub Guard\\Guard solider\\obsidian_warden_shadow_hunter.glb"
+		},
+		{
+			"animation_names": [],
+			"bounds_min": [
+				-0.488281279802322,
+				-0.00000000583076253946047,
+				-0.273193448781967
+			],
+			"dimensions": [
+				0.977325558662415,
+				0.85211181640625,
+				0.54772961139679
+			],
+			"import_error": 0,
+			"imported": true,
+			"material_surfaces": 19,
+			"mesh_instances": 19,
+			"relative_path": "Boss Sub Guard/gurad/ember_winged_fallen_angel_warrior.glb",
+			"skeletons": [],
+			"source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Boss Sub Guard\\gurad\\ember_winged_fallen_angel_warrior.glb"
+		},
+		{
+			"imported": false,
+			"reason": "Skipped: invalid GLB container; replace the damaged original.",
+			"relative_path": "Character/Female/silksong__hornet_fanart.glb",
+			"source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Character\\Female\\silksong__hornet_fanart.glb"
+		},
+		{
+			"animation_names": [
+				"Take 001"
+			],
+			"bounds_min": [
+				-1.73085880279541,
+				-4.32277917861938,
+				-2.48955488204956
+			],
+			"dimensions": [
+				3.45799827575684,
+				8.80319023132324,
+				3.25316476821899
+			],
+			"import_error": 0,
+			"imported": true,
+			"material_surfaces": 2,
+			"mesh_instances": 2,
+			"relative_path": "Sub Boss/SUB BOSS - Copy (1)/BOSS/stelae_knight.glb",
+			"skeletons": [
+				{
+					"bones": 2,
+					"name": "Skeleton3D"
+				},
+				{
+					"bones": 24,
+					"name": "Skeleton3D"
+				}
+			],
+			"source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (1)\\BOSS\\stelae_knight.glb"
+		},
+		{
+			"animation_names": [
+				"tposeidlewalk"
+			],
+			"bounds_min": [
+				-68.5437469482422,
+				-0.157994583249092,
+				-22.6105403900146
+			],
+			"dimensions": [
+				137.087493896484,
+				181.750274658203,
+				55.8781585693359
+			],
+			"import_error": 0,
+			"imported": true,
+			"material_surfaces": 5,
+			"mesh_instances": 5,
+			"relative_path": "Sub Boss/SUB BOSS - Copy (1)/SLODIER/skeleton_lord.glb",
+			"skeletons": [
+				{
+					"bones": 89,
+					"name": "Skeleton3D"
+				}
+			],
+			"source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (1)\\SLODIER\\skeleton_lord.glb"
+		},
+		{
+			"animation_names": [],
+			"bounds_min": [
+				-0.20489501953125,
+				-0.49005126953125,
+				-0.255462676286697
+			],
+			"dimensions": [
+				0.408935546875,
+				0.98004150390625,
+				0.51235967874527
+			],
+			"import_error": 0,
+			"imported": true,
+			"material_surfaces": 23,
+			"mesh_instances": 23,
+			"relative_path": "Sub Boss/SUB BOSS - Copy (2)/BOSS/fallen_paladin_in_corrupted_black_plate_armor.glb",
+			"skeletons": [],
+			"source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (2)\\BOSS\\fallen_paladin_in_corrupted_black_plate_armor.glb"
+		},
+		{
+			"animation_names": [],
+			"bounds_min": [
+				-0.186584502458572,
+				-0.00000000544524825230042,
+				-0.130859434604645
+			],
+			"dimensions": [
+				0.374450743198395,
+				0.979705810546875,
+				0.262329161167145
+			],
+			"import_error": 0,
+			"imported": true,
+			"material_surfaces": 24,
+			"mesh_instances": 24,
+			"relative_path": "Sub Boss/SUB BOSS - Copy (2)/SLODIER/corrupted_fallen_priest_-_dark_fantasy.glb",
+			"skeletons": [],
+			"source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (2)\\SLODIER\\corrupted_fallen_priest_-_dark_fantasy.glb"
+		},
+		{
+			"animation_names": [],
+			"bounds_min": [
+				-0.407714873552322,
+				-0.0000000128894477313679,
+				-0.302154570817947
+			],
+			"dimensions": [
+				0.81506359577179,
+				0.982177734375,
+				0.60440069437027
+			],
+			"import_error": 0,
+			"imported": true,
+			"material_surfaces": 21,
+			"mesh_instances": 21,
+			"relative_path": "Sub Boss/SUB BOSS - Copy (3)/BOSS/demon_lord__ember-cracked_corrupted_armor.glb",
+			"skeletons": [],
+			"source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (3)\\BOSS\\demon_lord__ember-cracked_corrupted_armor.glb"
+		},
+		{
+			"animation_names": [],
+			"bounds_min": [
+				-0.176773071289063,
+				-0.48956298828125,
+				-0.357696533203125
+			],
+			"dimensions": [
+				0.353317260742188,
+				0.97906494140625,
+				0.714874267578125
+			],
+			"import_error": 0,
+			"imported": true,
+			"material_surfaces": 23,
+			"mesh_instances": 23,
+			"relative_path": "Sub Boss/SUB BOSS - Copy (3)/SLODIER/blood_priest_in_crimson_ritual_robes.glb",
+			"skeletons": [],
+			"source": "C:\\Users\\uppal\\OneDrive\\Desktop\\Game Asserts\\Sub Boss\\SUB BOSS - Copy (3)\\SLODIER\\blood_priest_in_crimson_ritual_robes.glb"
+		}
+	],
+	"godot_version": "4.7.2-stable (official)"
+}
